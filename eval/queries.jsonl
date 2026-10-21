@@ -1,0 +1,118 @@
+{"id": "q001", "category": "single_intent", "query": "cotton t-shirt", "filters": {}, "held_out": false, "expected_types": ["T-shirt"], "expected_materials": ["cotton"]}
+{"id": "q002", "category": "single_intent", "query": "black dress", "filters": {}, "held_out": false, "expected_types": ["Dress"], "expected_colors": ["Black"]}
+{"id": "q003", "category": "single_intent", "query": "denim jacket", "filters": {}, "held_out": false, "expected_types": ["Jacket"], "expected_materials": ["denim"]}
+{"id": "q004", "category": "single_intent", "query": "running shoes", "filters": {}, "held_out": false, "expected_types": ["Sneakers"], "expected_categories": ["Shoes"]}
+{"id": "q005", "category": "single_intent", "query": "linen trousers", "filters": {}, "held_out": false, "expected_types": ["Trousers"], "expected_materials": ["linen"]}
+{"id": "q006", "category": "single_intent", "query": "v-neck sweater", "filters": {}, "held_out": false, "expected_types": ["Sweater"], "expected_necklines": ["v-neck"]}
+{"id": "q007", "category": "single_intent", "query": "hoodie", "filters": {}, "held_out": false, "expected_types": ["Hoodie"]}
+{"id": "q008", "category": "single_intent", "query": "silk blouse", "filters": {}, "held_out": false, "expected_types": ["Blouse"], "expected_materials": ["silk"]}
+{"id": "q009", "category": "single_intent", "query": "wool coat", "filters": {}, "held_out": false, "expected_types": ["Coat"], "expected_materials": ["wool"]}
+{"id": "q010", "category": "single_intent", "query": "skinny jeans", "filters": {}, "held_out": false, "expected_types": ["Trousers"]}
+{"id": "q011", "category": "single_intent", "query": "floral maxi dress", "filters": {}, "held_out": false, "expected_types": ["Dress"], "expected_patterns": ["All over pattern"]}
+{"id": "q012", "category": "single_intent", "query": "leather boots", "filters": {}, "held_out": false, "expected_types": ["Boots"], "expected_materials": ["leather"]}
+{"id": "q013", "category": "single_intent", "query": "white sneakers", "filters": {}, "held_out": false, "expected_types": ["Sneakers"], "expected_colors": ["White"]}
+{"id": "q014", "category": "single_intent", "query": "swimsuit", "filters": {}, "held_out": false, "expected_types": ["Swimsuit"]}
+{"id": "q015", "category": "single_intent", "query": "leather belt", "filters": {}, "held_out": false, "expected_types": ["Belt"], "expected_materials": ["leather"]}
+{"id": "q016", "category": "single_intent", "query": "striped polo shirt", "filters": {}, "held_out": true, "expected_types": ["Polo shirt"], "expected_patterns": ["Stripe"]}
+{"id": "q017", "category": "single_intent", "query": "pleated skirt", "filters": {}, "held_out": true, "expected_types": ["Skirt"]}
+{"id": "q018", "category": "single_intent", "query": "cashmere cardigan", "filters": {}, "held_out": true, "expected_types": ["Cardigan"], "expected_materials": ["cashmere"]}
+{"id": "q019", "category": "single_intent", "query": "chinos", "filters": {}, "held_out": true, "expected_types": ["Trousers"]}
+{"id": "q020", "category": "single_intent", "query": "tote bag", "filters": {}, "held_out": true, "expected_types": ["Tote bag", "Bag"]}
+{"id": "q021", "category": "synonyms", "query": "tee", "filters": {}, "held_out": false, "expected_types": ["T-shirt"]}
+{"id": "q022", "category": "synonyms", "query": "pants", "filters": {}, "held_out": false, "expected_types": ["Trousers"]}
+{"id": "q023", "category": "synonyms", "query": "frock", "filters": {}, "held_out": false, "expected_types": ["Dress"]}
+{"id": "q024", "category": "synonyms", "query": "trainers", "filters": {}, "held_out": false, "expected_types": ["Sneakers"]}
+{"id": "q025", "category": "synonyms", "query": "jumper", "filters": {}, "held_out": false, "expected_types": ["Sweater"]}
+{"id": "q026", "category": "synonyms", "query": "shades", "filters": {}, "held_out": false, "expected_types": ["Sunglasses"]}
+{"id": "q027", "category": "synonyms", "query": "bathers", "filters": {}, "held_out": false, "expected_types": ["Swimsuit"]}
+{"id": "q028", "category": "synonyms", "query": "undies", "filters": {}, "held_out": false, "expected_types": ["Underwear bottom"]}
+{"id": "q029", "category": "synonyms", "query": "pajamas", "filters": {}, "held_out": false, "expected_types": ["Pyjama set"]}
+{"id": "q030", "category": "synonyms", "query": "purse", "filters": {}, "held_out": false, "expected_types": ["Bag"]}
+{"id": "q031", "category": "synonyms", "query": "kicks", "filters": {}, "held_out": true, "expected_types": ["Sneakers"]}
+{"id": "q032", "category": "synonyms", "query": "tank top", "filters": {}, "held_out": true, "expected_types": ["Vest top"]}
+{"id": "q033", "category": "synonyms", "query": "slacks", "filters": {}, "held_out": true, "expected_types": ["Trousers"]}
+{"id": "q034", "category": "synonyms", "query": "sunnies", "filters": {}, "held_out": true, "expected_types": ["Sunglasses"]}
+{"id": "q035", "category": "synonyms", "query": "nightie", "filters": {}, "held_out": true, "expected_types": ["Night gown"]}
+{"id": "q036", "category": "typos", "query": "coton t-shirt", "filters": {}, "held_out": false, "expected_types": ["T-shirt"]}
+{"id": "q037", "category": "typos", "query": "blck dres", "filters": {}, "held_out": false, "expected_types": ["Dress"], "expected_colors": ["Black"]}
+{"id": "q038", "category": "typos", "query": "trouserz", "filters": {}, "held_out": false, "expected_types": ["Trousers"]}
+{"id": "q039", "category": "typos", "query": "sweatr", "filters": {}, "held_out": false, "expected_types": ["Sweater"]}
+{"id": "q040", "category": "typos", "query": "jcket", "filters": {}, "held_out": false, "expected_types": ["Jacket"]}
+{"id": "q041", "category": "typos", "query": "sneekers", "filters": {}, "held_out": false, "expected_types": ["Sneakers"]}
+{"id": "q042", "category": "typos", "query": "cardign", "filters": {}, "held_out": false, "expected_types": ["Cardigan"]}
+{"id": "q043", "category": "typos", "query": "hoody", "filters": {}, "held_out": false, "expected_types": ["Hoodie"]}
+{"id": "q044", "category": "typos", "query": "lether boots", "filters": {}, "held_out": false, "expected_types": ["Boots"]}
+{"id": "q045", "category": "typos", "query": "swmsuit", "filters": {}, "held_out": false, "expected_types": ["Swimsuit"]}
+{"id": "q046", "category": "typos", "query": "bluse", "filters": {}, "held_out": true, "expected_types": ["Blouse"]}
+{"id": "q047", "category": "typos", "query": "sunglases", "filters": {}, "held_out": true, "expected_types": ["Sunglasses"]}
+{"id": "q048", "category": "typos", "query": "pyjamas set", "filters": {}, "held_out": true, "expected_types": ["Pyjama set"]}
+{"id": "q049", "category": "typos", "query": "linn pants", "filters": {}, "held_out": true, "expected_types": ["Trousers"]}
+{"id": "q050", "category": "typos", "query": "skrt", "filters": {}, "held_out": true, "expected_types": ["Skirt"]}
+{"id": "q051", "category": "prose_constraints", "query": "black jeans under 2000", "filters": {}, "held_out": false, "expected_types": ["Trousers"], "max_price": 2000, "expected_colors": ["Black"]}
+{"id": "q052", "category": "prose_constraints", "query": "cotton dress under INR 1500", "filters": {}, "held_out": false, "expected_types": ["Dress"], "max_price": 1500}
+{"id": "q053", "category": "prose_constraints", "query": "winter jacket under 5000", "filters": {}, "held_out": false, "expected_types": ["Jacket", "Coat"], "max_price": 5000}
+{"id": "q054", "category": "prose_constraints", "query": "white shoes for men under 2500", "filters": {}, "held_out": false, "expected_types": ["Sneakers", "Boots"], "max_price": 2500, "expected_colors": ["White"]}
+{"id": "q055", "category": "prose_constraints", "query": "t-shirt between 500 and 1000", "filters": {}, "held_out": false, "expected_types": ["T-shirt"], "min_price": 500, "max_price": 1000}
+{"id": "q056", "category": "prose_constraints", "query": "blue shirt under Rs 2000", "filters": {}, "held_out": false, "expected_types": ["Shirt"], "max_price": 2000, "expected_colors": ["Blue", "Dark Blue", "Light Blue"]}
+{"id": "q057", "category": "prose_constraints", "query": "party dress under 3000", "filters": {}, "held_out": false, "expected_types": ["Dress"], "max_price": 3000}
+{"id": "q058", "category": "prose_constraints", "query": "sweater below 2k", "filters": {}, "held_out": false, "expected_types": ["Sweater"], "max_price": 2000}
+{"id": "q059", "category": "prose_constraints", "query": "skirt under INR 1,500", "filters": {}, "held_out": false, "expected_types": ["Skirt"], "max_price": 1500}
+{"id": "q060", "category": "prose_constraints", "query": "hoodie under 2500 for women", "filters": {}, "held_out": false, "expected_types": ["Hoodie"], "max_price": 2500}
+{"id": "q061", "category": "prose_constraints", "query": "leather jacket under 7000", "filters": {}, "held_out": true, "expected_types": ["Jacket"], "max_price": 7000}
+{"id": "q062", "category": "prose_constraints", "query": "running shoes under 3500", "filters": {}, "held_out": true, "expected_types": ["Sneakers"], "max_price": 3500}
+{"id": "q063", "category": "prose_constraints", "query": "summer dress under 2k", "filters": {}, "held_out": true, "expected_types": ["Dress"], "max_price": 2000}
+{"id": "q064", "category": "prose_constraints", "query": "trousers under 3000", "filters": {}, "held_out": true, "expected_types": ["Trousers"], "max_price": 3000}
+{"id": "q065", "category": "prose_constraints", "query": "cotton pyjamas under 1500", "filters": {}, "held_out": true, "expected_types": ["Pyjama set"], "max_price": 1500}
+{"id": "q066", "category": "unusual", "query": "something comfortable for a lazy Sunday", "filters": {}, "held_out": false, "expected_concepts": ["lazy", "lounge"]}
+{"id": "q067", "category": "unusual", "query": "outfit for an evening beach party", "filters": {}, "held_out": false, "expected_concepts": ["beach", "party"]}
+{"id": "q068", "category": "unusual", "query": "attire for a summer wedding", "filters": {}, "held_out": false, "expected_concepts": ["summer", "wedding"]}
+{"id": "q069", "category": "unusual", "query": "office wear for women", "filters": {}, "held_out": false, "expected_concepts": ["office", "work"]}
+{"id": "q070", "category": "unusual", "query": "workout clothes for gym", "filters": {}, "held_out": false, "expected_concepts": ["gym", "workout"]}
+{"id": "q071", "category": "unusual", "query": "cozy winter knitwear", "filters": {}, "held_out": false, "expected_concepts": ["winter"]}
+{"id": "q072", "category": "unusual", "query": "festive party outfit", "filters": {}, "held_out": false, "expected_concepts": ["festive", "party"]}
+{"id": "q073", "category": "unusual", "query": "sleepwear for cold nights", "filters": {}, "held_out": false, "expected_concepts": ["sleep", "winter"]}
+{"id": "q074", "category": "unusual", "query": "casual weekend clothes", "filters": {}, "held_out": true, "expected_concepts": ["casual"]}
+{"id": "q075", "category": "unusual", "query": "clothes for swimming at the beach", "filters": {}, "held_out": true, "expected_concepts": ["beach"]}
+{"id": "q076", "category": "unusual", "query": "formal business interview clothes", "filters": {}, "held_out": true, "expected_concepts": ["office", "formal"]}
+{"id": "q077", "category": "unusual", "query": "running gear for fitness", "filters": {}, "held_out": true, "expected_concepts": ["gym"]}
+{"id": "q078", "category": "unusual", "query": "holiday resort wear", "filters": {}, "held_out": true, "expected_concepts": ["summer", "beach"]}
+{"id": "q079", "category": "impossible", "query": "spaceship engine", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q080", "category": "impossible", "query": "quantum algorithm computer", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q081", "category": "impossible", "query": "cryptocurrency mining rig", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q082", "category": "impossible", "query": "fresh banana fruit grocery", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q083", "category": "impossible", "query": "airline flight tickets to Paris", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q084", "category": "impossible", "query": "automotive engine oil filter", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q085", "category": "impossible", "query": "real estate apartment for rent", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q086", "category": "impossible", "query": "smart television 4k screen", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q087", "category": "impossible", "query": "black dress under 50 rupees", "filters": {}, "held_out": false, "expected_empty": true}
+{"id": "q088", "category": "impossible", "query": "semiconductor microchip processor", "filters": {}, "held_out": true, "expected_empty": true}
+{"id": "q089", "category": "impossible", "query": "spacecraft orbital thruster", "filters": {}, "held_out": true, "expected_empty": true}
+{"id": "q090", "category": "impossible", "query": "superconductor magnetic coil", "filters": {}, "held_out": true, "expected_empty": true}
+{"id": "q091", "category": "impossible", "query": "chlorophyll photosynthesis test", "filters": {}, "held_out": true, "expected_empty": true}
+{"id": "q092", "category": "impossible", "query": "volcanology seismograph detector", "filters": {}, "held_out": true, "expected_empty": true}
+{"id": "q093", "category": "mixed", "query": "black jeans and white t-shirts under INR 2000 each", "filters": {}, "held_out": false, "choices": ["black jeans under INR 2000", "white t-shirts under INR 2000"]}
+{"id": "q094", "category": "mixed", "query": "summer dress and leather sandals", "filters": {}, "held_out": false, "choices": ["summer dress", "leather sandals"]}
+{"id": "q095", "category": "mixed", "query": "cotton shirt and formal trousers", "filters": {}, "held_out": false, "choices": ["cotton shirt", "formal trousers"]}
+{"id": "q096", "category": "mixed", "query": "hoodie and sweatpants for men", "filters": {}, "held_out": false, "choices": ["hoodie for men", "sweatpants for men"]}
+{"id": "q097", "category": "mixed", "query": "denim jacket and wool sweater", "filters": {}, "held_out": false, "choices": ["denim jacket", "wool sweater"]}
+{"id": "q098", "category": "mixed", "query": "running shoes and gym shorts", "filters": {}, "held_out": false, "choices": ["running shoes", "gym shorts"]}
+{"id": "q099", "category": "mixed", "query": "silk blouse and pencil skirt", "filters": {}, "held_out": false, "choices": ["silk blouse", "pencil skirt"]}
+{"id": "q100", "category": "mixed", "query": "swimsuit and beach towel", "filters": {}, "held_out": false, "choices": ["swimsuit", "beach towel"]}
+{"id": "q101", "category": "mixed", "query": "winter coat and warm boots", "filters": {}, "held_out": true, "choices": ["winter coat", "warm boots"]}
+{"id": "q102", "category": "mixed", "query": "cotton t-shirt and denim shorts", "filters": {}, "held_out": true, "choices": ["cotton t-shirt", "denim shorts"]}
+{"id": "q103", "category": "mixed", "query": "black trousers and white sneakers", "filters": {}, "held_out": true, "choices": ["black trousers", "white sneakers"]}
+{"id": "q104", "category": "mixed", "query": "party dress and high heels", "filters": {}, "held_out": true, "choices": ["party dress", "high heels"]}
+{"id": "q105", "category": "mixed", "query": "pyjamas and soft slippers", "filters": {}, "held_out": true, "choices": ["pyjamas", "soft slippers"]}
+{"id": "q106", "category": "complements", "query": "a dinner dress under INR 2500 with a matching bag under INR 1000", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Dress", "complement_type": "Bag"}
+{"id": "q107", "category": "complements", "query": "summer dress with matching sandals", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Dress", "complement_type": "Sandals"}
+{"id": "q108", "category": "complements", "query": "black jeans with a matching belt", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Trousers", "complement_type": "Belt"}
+{"id": "q109", "category": "complements", "query": "winter coat with a matching scarf", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Coat", "complement_type": "Scarf"}
+{"id": "q110", "category": "complements", "query": "swimsuit with matching sunglasses", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Swimsuit", "complement_type": "Sunglasses"}
+{"id": "q111", "category": "complements", "query": "party dress with matching earrings", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Dress", "complement_type": "Earrings"}
+{"id": "q112", "category": "complements", "query": "formal suit with a matching tie", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Blazer", "complement_type": "Tie"}
+{"id": "q113", "category": "complements", "query": "running shoes with matching socks", "filters": {}, "include_recommendations": true, "held_out": false, "primary_type": "Sneakers", "complement_type": "Socks"}
+{"id": "q114", "category": "complements", "query": "cocktail dress with a matching clutch bag", "filters": {}, "include_recommendations": true, "held_out": true, "primary_type": "Dress", "complement_type": "Bag"}
+{"id": "q115", "category": "complements", "query": "leather jacket with a matching beanie", "filters": {}, "include_recommendations": true, "held_out": true, "primary_type": "Jacket", "complement_type": "Beanie"}
+{"id": "q116", "category": "complements", "query": "beach swimsuit with matching flip flops", "filters": {}, "include_recommendations": true, "held_out": true, "primary_type": "Swimsuit", "complement_type": "Flip flop"}
+{"id": "q117", "category": "complements", "query": "evening gown with matching necklace", "filters": {}, "include_recommendations": true, "held_out": true, "primary_type": "Dress", "complement_type": "Necklace"}
+{"id": "q118", "category": "complements", "query": "pyjama set with matching slippers", "filters": {}, "include_recommendations": true, "held_out": true, "primary_type": "Pyjama set", "complement_type": "Slippers"}

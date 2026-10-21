@@ -1,0 +1,573 @@
+{
+  "family_complements": {
+    "dresses": [
+      "bags",
+      "footwear",
+      "jewellery",
+      "outerwear"
+    ],
+    "tops": [
+      "bottoms",
+      "footwear",
+      "outerwear",
+      "accessories"
+    ],
+    "bottoms": [
+      "tops",
+      "footwear",
+      "outerwear",
+      "accessories"
+    ],
+    "outerwear": [
+      "accessories",
+      "footwear",
+      "bags"
+    ],
+    "footwear": [
+      "accessories",
+      "bags"
+    ],
+    "swimwear": [
+      "accessories",
+      "footwear",
+      "bags"
+    ],
+    "nightwear": [
+      "footwear"
+    ],
+    "activewear": [
+      "footwear",
+      "bags",
+      "accessories"
+    ]
+  },
+  "type_complements": {
+    "T-shirt": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Top": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Blouse": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Shirt": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Vest top": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Sweater": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Cardigan": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt",
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Bag",
+      "Cross-body bag"
+    ],
+    "Hoodie": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt",
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Bag",
+      "Cross-body bag"
+    ],
+    "Polo shirt": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Bodysuit": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Tailored Waistcoat": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt",
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Bag",
+      "Cross-body bag"
+    ],
+    "Outdoor Waistcoat": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt",
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Bag",
+      "Cross-body bag"
+    ],
+    "Kids Underwear top": [
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Jacket",
+      "Coat",
+      "Belt"
+    ],
+    "Trousers": [
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater",
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Belt",
+      "Jacket"
+    ],
+    "Shorts": [
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater",
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Belt",
+      "Jacket"
+    ],
+    "Skirt": [
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater",
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Belt",
+      "Jacket"
+    ],
+    "Leggings/Tights": [
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater",
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Belt",
+      "Jacket"
+    ],
+    "Dungarees": [
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater",
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Belt",
+      "Jacket",
+      "Bag",
+      "Tote bag",
+      "Shoulder bag",
+      "Cross-body bag",
+      "Heels",
+      "Heeled sandals",
+      "Ballerinas",
+      "Earrings",
+      "Necklace",
+      "Bracelet",
+      "Blazer"
+    ],
+    "Outdoor trousers": [
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater",
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Belt",
+      "Jacket"
+    ],
+    "Long John": [
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater",
+      "Sneakers",
+      "Boots",
+      "Sandals",
+      "Belt",
+      "Jacket"
+    ],
+    "Dress": [
+      "Bag",
+      "Tote bag",
+      "Shoulder bag",
+      "Cross-body bag",
+      "Heels",
+      "Heeled sandals",
+      "Ballerinas",
+      "Sandals",
+      "Earrings",
+      "Necklace",
+      "Bracelet",
+      "Blazer",
+      "Jacket"
+    ],
+    "Jumpsuit/Playsuit": [
+      "Bag",
+      "Tote bag",
+      "Shoulder bag",
+      "Cross-body bag",
+      "Heels",
+      "Heeled sandals",
+      "Ballerinas",
+      "Sandals",
+      "Earrings",
+      "Necklace",
+      "Bracelet",
+      "Blazer",
+      "Jacket"
+    ],
+    "Costumes": [
+      "Bag",
+      "Tote bag",
+      "Shoulder bag",
+      "Cross-body bag",
+      "Heels",
+      "Heeled sandals",
+      "Ballerinas",
+      "Sandals",
+      "Earrings",
+      "Necklace",
+      "Bracelet",
+      "Blazer",
+      "Jacket"
+    ],
+    "Outdoor overall": [
+      "Bag",
+      "Tote bag",
+      "Shoulder bag",
+      "Cross-body bag",
+      "Heels",
+      "Heeled sandals",
+      "Ballerinas",
+      "Sandals",
+      "Earrings",
+      "Necklace",
+      "Bracelet",
+      "Blazer",
+      "Jacket",
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Boots"
+    ],
+    "Garment Set": [
+      "Bag",
+      "Tote bag",
+      "Shoulder bag",
+      "Cross-body bag",
+      "Heels",
+      "Heeled sandals",
+      "Ballerinas",
+      "Sandals",
+      "Earrings",
+      "Necklace",
+      "Bracelet",
+      "Blazer",
+      "Jacket",
+      "Trousers",
+      "Shorts",
+      "Skirt",
+      "Sneakers",
+      "Boots",
+      "Coat",
+      "Belt",
+      "T-shirt",
+      "Top",
+      "Shirt",
+      "Blouse",
+      "Sweater"
+    ],
+    "Jacket": [
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Boots",
+      "Bag",
+      "Cross-body bag"
+    ],
+    "Coat": [
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Boots",
+      "Bag",
+      "Cross-body bag"
+    ],
+    "Blazer": [
+      "Scarf",
+      "Beanie",
+      "Hat/beanie",
+      "Gloves",
+      "Boots",
+      "Bag",
+      "Cross-body bag"
+    ],
+    "Boots": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Sneakers": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Sandals": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Ballerinas": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Heels": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Slippers": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Flip flop": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Pumps": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Flat shoe": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Flat shoes": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Heeled sandals": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Moccasins": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Bootie": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Pre-walkers": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Other shoe": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Wedge": [
+      "Socks",
+      "Bag",
+      "Backpack",
+      "Belt"
+    ],
+    "Pyjama set": [
+      "Slippers"
+    ],
+    "Pyjama bottom": [
+      "Slippers"
+    ],
+    "Pyjama jumpsuit/playsuit": [
+      "Slippers"
+    ],
+    "Night gown": [
+      "Slippers"
+    ],
+    "Robe": [
+      "Slippers"
+    ],
+    "Sleep Bag": [
+      "Slippers"
+    ],
+    "Sleeping sack": [
+      "Slippers"
+    ],
+    "Swimsuit": [
+      "Sunglasses",
+      "Flip flop",
+      "Sandals",
+      "Tote bag",
+      "Straw hat"
+    ],
+    "Bikini top": [
+      "Sunglasses",
+      "Flip flop",
+      "Sandals",
+      "Tote bag",
+      "Straw hat"
+    ],
+    "Swimwear bottom": [
+      "Sunglasses",
+      "Flip flop",
+      "Sandals",
+      "Tote bag",
+      "Straw hat"
+    ],
+    "Swimwear set": [
+      "Sunglasses",
+      "Flip flop",
+      "Sandals",
+      "Tote bag",
+      "Straw hat"
+    ],
+    "Swimwear top": [
+      "Sunglasses",
+      "Flip flop",
+      "Sandals",
+      "Tote bag",
+      "Straw hat"
+    ],
+    "Sarong": [
+      "Sunglasses",
+      "Flip flop",
+      "Sandals",
+      "Tote bag",
+      "Straw hat"
+    ]
+  }
+}

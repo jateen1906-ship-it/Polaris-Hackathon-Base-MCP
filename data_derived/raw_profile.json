@@ -1,0 +1,2349 @@
+{
+  "n_products": 105126,
+  "null_counts": {
+    "rating_average": 11560,
+    "id": 0,
+    "name": 0,
+    "description": 0,
+    "category": 0,
+    "product_type": 0,
+    "audience": 0,
+    "section": 0,
+    "color": 0,
+    "pattern": 0,
+    "image_url": 0,
+    "price_amount": 0,
+    "rating_count": 0,
+    "reviews_count": 0
+  },
+  "cat_counts": {
+    "product_type": {
+      "Vest top": 2987,
+      "Bra": 2201,
+      "Underwear Tights": 545,
+      "Socks": 1886,
+      "Leggings/Tights": 1877,
+      "Sweater": 9271,
+      "Top": 4144,
+      "Trousers": 11140,
+      "Hair clip": 244,
+      "Umbrella": 29,
+      "Pyjama jumpsuit/playsuit": 388,
+      "Bodysuit": 912,
+      "Hair string": 237,
+      "Unknown": 121,
+      "Hoodie": 2349,
+      "Sleep Bag": 6,
+      "Hair/alice band": 853,
+      "Belt": 457,
+      "Boots": 1025,
+      "Bikini top": 850,
+      "Swimwear bottom": 1296,
+      "Underwear bottom": 2719,
+      "Swimsuit": 651,
+      "Skirt": 2687,
+      "T-shirt": 7849,
+      "Dress": 10318,
+      "Hat/beanie": 1349,
+      "Kids Underwear top": 96,
+      "Shorts": 3929,
+      "Shirt": 3397,
+      "Cap/peaked": 573,
+      "Pyjama set": 1120,
+      "Sneakers": 1590,
+      "Sunglasses": 618,
+      "Cardigan": 1545,
+      "Gloves": 367,
+      "Earring": 1155,
+      "Bag": 1279,
+      "Blazer": 1110,
+      "Other shoe": 390,
+      "Jumpsuit/Playsuit": 1147,
+      "Sandals": 745,
+      "Jacket": 3934,
+      "Costumes": 90,
+      "Robe": 136,
+      "Scarf": 1012,
+      "Coat": 455,
+      "Other accessories": 1033,
+      "Polo shirt": 449,
+      "Slippers": 248,
+      "Night gown": 171,
+      "Alice band": 6,
+      "Straw hat": 6,
+      "Hat/brim": 395,
+      "Tailored Waistcoat": 73,
+      "Necklace": 580,
+      "Ballerinas": 341,
+      "Tie": 141,
+      "Pyjama bottom": 220,
+      "Felt hat": 10,
+      "Bracelet": 178,
+      "Blouse": 3964,
+      "Outdoor overall": 64,
+      "Watch": 73,
+      "Underwear body": 173,
+      "Beanie": 56,
+      "Giftbox": 15,
+      "Sleeping sack": 48,
+      "Dungarees": 308,
+      "Outdoor trousers": 130,
+      "Wallet": 77,
+      "Swimwear set": 192,
+      "Swimwear top": 50,
+      "Flat shoe": 162,
+      "Garment Set": 1318,
+      "Ring": 240,
+      "Waterbottle": 22,
+      "Wedge": 113,
+      "Long John": 30,
+      "Outdoor Waistcoat": 154,
+      "Pumps": 188,
+      "Flip flop": 124,
+      "Braces": 3,
+      "Bootie": 31,
+      "Fine cosmetics": 46,
+      "Heeled sandals": 202,
+      "Nipple covers": 19,
+      "Chem. cosmetics": 3,
+      "Soft Toys": 46,
+      "Hair ties": 24,
+      "Underwear corset": 7,
+      "Bra extender": 1,
+      "Underdress": 20,
+      "Underwear set": 47,
+      "Sarong": 65,
+      "Leg warmers": 7,
+      "Blanket": 1,
+      "Hairband": 2,
+      "Tote bag": 2,
+      "Weekend/Gym bag": 9,
+      "Cushion": 1,
+      "Backpack": 6,
+      "Earrings": 11,
+      "Bucket hat": 7,
+      "Flat shoes": 10,
+      "Heels": 22,
+      "Cap": 13,
+      "Shoulder bag": 2,
+      "Side table": 13,
+      "Accessories set": 7,
+      "Headband": 1,
+      "Baby Bib": 3,
+      "Keychain": 1,
+      "Dog Wear": 20,
+      "Washing bag": 1,
+      "Sewing kit": 1,
+      "Cross-body bag": 5,
+      "Moccasins": 4,
+      "Towel": 1,
+      "Wood balls": 1,
+      "Zipper head": 3,
+      "Mobile case": 4,
+      "Pre-walkers": 1,
+      "Toy": 2,
+      "Marker pen": 5,
+      "Bumbag": 1,
+      "Dog wear": 7,
+      "Eyeglasses": 2,
+      "Wireless earphone case": 2,
+      "Stain remover spray": 2,
+      "Clothing mist": 1
+    },
+    "category": {
+      "Garment Upper body": 42593,
+      "Underwear": 5449,
+      "Socks & Tights": 2438,
+      "Garment Lower body": 19763,
+      "Accessories": 11141,
+      "Items": 17,
+      "Nightwear": 1899,
+      "Unknown": 121,
+      "Underwear/nightwear": 54,
+      "Shoes": 5196,
+      "Swimwear": 3104,
+      "Garment Full body": 13245,
+      "Cosmetic": 49,
+      "Interior textile": 3,
+      "Bags": 25,
+      "Furniture": 13,
+      "Garment and Shoe care": 9,
+      "Fun": 2,
+      "Stationery": 5
+    },
+    "audience": {
+      "Ladieswear": 25912,
+      "Lingeries/Tights": 6726,
+      "Baby Sizes 50-98": 8863,
+      "Menswear": 12539,
+      "Ladies Accessories": 6885,
+      "Sport": 3359,
+      "Children Sizes 92-140": 11974,
+      "Divided": 15086,
+      "Children Sizes 134-170": 9190,
+      "Children Accessories, Swimwear": 4592
+    },
+    "section": {
+      "Womens Everyday Basics": 1574,
+      "Womens Lingerie": 3563,
+      "Womens Nightwear, Socks & Tigh": 1565,
+      "Baby Essentials & Complements": 4930,
+      "Men Underwear": 2314,
+      "Mama": 2265,
+      "Womens Small accessories": 3263,
+      "Men H&M Sport": 872,
+      "Kids Boy": 3318,
+      "Divided Basics": 1715,
+      "Girls Underwear & Basics": 3476,
+      "Mens Outerwear": 627,
+      "Womens Big accessories": 1663,
+      "Divided Accessories": 1728,
+      "Womens Swimwear, beachwear": 1826,
+      "Divided Selected": 989,
+      "Boys Underwear & Basics": 2032,
+      "Contemporary Street": 1489,
+      "Contemporary Casual": 1559,
+      "Men Accessories": 1335,
+      "Men Suits & Tailoring": 1428,
+      "Womens Everyday Collection": 7273,
+      "Men Shoes": 645,
+      "Young Boy": 2344,
+      "H&M+": 2326,
+      "Divided Collection": 7090,
+      "Ladies Denim": 1100,
+      "Contemporary Smart": 1778,
+      "Womens Trend": 2615,
+      "Kids Outerwear": 2659,
+      "Young Girl": 3895,
+      "Womens Shoes": 1959,
+      "Womens Tailoring": 3355,
+      "Divided Projects": 2350,
+      "Denim Men": 521,
+      "Men Other": 25,
+      "Womens Jackets": 827,
+      "Men Other 2": 190,
+      "Baby Boy": 1711,
+      "Womens Casual": 2711,
+      "Kids Accessories, Swimwear & D": 1729,
+      "Ladies H&M Sport": 1861,
+      "Kids & Baby Shoes": 2124,
+      "Baby Girl": 1756,
+      "Kids Girl": 4454,
+      "Divided Complements Other": 35,
+      "Womens Premium": 1267,
+      "Special Collections": 681,
+      "Kids Sports": 626,
+      "Men Project": 298,
+      "Men Edition": 330,
+      "Collaborations": 559,
+      "Divided Asia keys": 280,
+      "EQ Divided": 26,
+      "Kids Local Relevance": 191,
+      "Ladies Other": 4
+    },
+    "color": {
+      "Black": 22559,
+      "White": 9502,
+      "Off White": 2716,
+      "Light Beige": 3344,
+      "Beige": 2704,
+      "Grey": 4473,
+      "Light Blue": 3004,
+      "Light Grey": 2092,
+      "Dark Blue": 12117,
+      "Dark Grey": 2719,
+      "Pink": 2055,
+      "Dark Red": 2330,
+      "Greyish Beige": 224,
+      "Light Orange": 1517,
+      "Silver": 705,
+      "Gold": 1372,
+      "Light Pink": 5794,
+      "Dark Pink": 811,
+      "Yellowish Brown": 1469,
+      "Blue": 3302,
+      "Light Turquoise": 1022,
+      "Yellow": 1642,
+      "Greenish Khaki": 2763,
+      "Dark Yellow": 571,
+      "Other Pink": 748,
+      "Dark Purple": 312,
+      "Red": 3040,
+      "Transparent": 31,
+      "Dark Green": 2094,
+      "Other Red": 113,
+      "Turquoise": 432,
+      "Dark Orange": 885,
+      "Other": 104,
+      "Orange": 777,
+      "Dark Beige": 1082,
+      "Other Yellow": 224,
+      "Light Green": 681,
+      "Other Orange": 153,
+      "Purple": 182,
+      "Light Red": 285,
+      "Light Yellow": 980,
+      "Green": 813,
+      "Light Purple": 551,
+      "Dark Turquoise": 471,
+      "Other Purple": 46,
+      "Bronze/Copper": 94,
+      "Other Turquoise": 14,
+      "Other Green": 128,
+      "Other Blue": 51,
+      "Unknown": 28
+    },
+    "pattern": {
+      "Solid": 49548,
+      "Stripe": 4960,
+      "All over pattern": 17116,
+      "Melange": 5901,
+      "Transparent": 86,
+      "Metallic": 339,
+      "Application/3D": 1337,
+      "Denim": 4835,
+      "Colour blocking": 1828,
+      "Dot": 677,
+      "Other structure": 1500,
+      "Contrast": 373,
+      "Treatment": 583,
+      "Check": 2169,
+      "Chambray": 317,
+      "Front print": 3208,
+      "Glittering/Metallic": 956,
+      "Mixed solid/pattern": 1128,
+      "Placement print": 3083,
+      "Other pattern": 514,
+      "Neps": 66,
+      "Embroidery": 1159,
+      "Lace": 1500,
+      "Jacquard": 825,
+      "Unknown": 52,
+      "Argyle": 15,
+      "Slub": 152,
+      "Mesh": 86,
+      "Sequin": 805,
+      "Hologram": 8
+    }
+  },
+  "name_tokens_top500": [
+    [
+      "dress",
+      7867
+    ],
+    [
+      "tee",
+      4539
+    ],
+    [
+      "top",
+      3942
+    ],
+    [
+      "s",
+      3633
+    ],
+    [
+      "shorts",
+      3578
+    ],
+    [
+      "fancy",
+      2816
+    ],
+    [
+      "1",
+      2758
+    ],
+    [
+      "p",
+      2551
+    ],
+    [
+      "shirt",
+      2538
+    ],
+    [
+      "ls",
+      2336
+    ],
+    [
+      "hood",
+      2308
+    ],
+    [
+      "set",
+      2263
+    ],
+    [
+      "sb",
+      2249
+    ],
+    [
+      "2",
+      2192
+    ],
+    [
+      "sweater",
+      2015
+    ],
+    [
+      "skirt",
+      1946
+    ],
+    [
+      "basic",
+      1865
+    ],
+    [
+      "tp",
+      1862
+    ],
+    [
+      "blouse",
+      1794
+    ],
+    [
+      "l",
+      1768
+    ],
+    [
+      "skinny",
+      1718
+    ],
+    [
+      "ss",
+      1638
+    ],
+    [
+      "bb",
+      1623
+    ],
+    [
+      "2p",
+      1612
+    ],
+    [
+      "w",
+      1605
+    ],
+    [
+      "pack",
+      1592
+    ],
+    [
+      "denim",
+      1491
+    ],
+    [
+      "hw",
+      1473
+    ],
+    [
+      "trs",
+      1428
+    ],
+    [
+      "tank",
+      1409
+    ],
+    [
+      "slim",
+      1407
+    ],
+    [
+      "tvp",
+      1391
+    ],
+    [
+      "pq",
+      1233
+    ],
+    [
+      "neck",
+      1201
+    ],
+    [
+      "body",
+      1170
+    ],
+    [
+      "5",
+      1133
+    ],
+    [
+      "price",
+      1115
+    ],
+    [
+      "pj",
+      1107
+    ],
+    [
+      "ed",
+      1081
+    ],
+    [
+      "tights",
+      1066
+    ],
+    [
+      "3",
+      1056
+    ],
+    [
+      "jacket",
+      1041
+    ],
+    [
+      "cardigan",
+      1037
+    ],
+    [
+      "flirty",
+      990
+    ],
+    [
+      "speed",
+      976
+    ],
+    [
+      "leggings",
+      959
+    ],
+    [
+      "trousers",
+      936
+    ],
+    [
+      "beanie",
+      924
+    ],
+    [
+      "j",
+      911
+    ],
+    [
+      "padded",
+      871
+    ],
+    [
+      "sg",
+      860
+    ],
+    [
+      "jogger",
+      844
+    ],
+    [
+      "3p",
+      843
+    ],
+    [
+      "r",
+      787
+    ],
+    [
+      "jumpsuit",
+      785
+    ],
+    [
+      "low",
+      768
+    ],
+    [
+      "push",
+      742
+    ],
+    [
+      "lace",
+      740
+    ],
+    [
+      "sneaker",
+      728
+    ],
+    [
+      "scarf",
+      728
+    ],
+    [
+      "pk",
+      725
+    ],
+    [
+      "bag",
+      723
+    ],
+    [
+      "boot",
+      684
+    ],
+    [
+      "polo",
+      682
+    ],
+    [
+      "trouser",
+      679
+    ],
+    [
+      "cool",
+      666
+    ],
+    [
+      "bra",
+      660
+    ],
+    [
+      "ol",
+      649
+    ],
+    [
+      "linen",
+      646
+    ],
+    [
+      "es",
+      637
+    ],
+    [
+      "new",
+      623
+    ],
+    [
+      "sandal",
+      610
+    ],
+    [
+      "div",
+      607
+    ],
+    [
+      "t",
+      600
+    ],
+    [
+      "solid",
+      599
+    ],
+    [
+      "fit",
+      587
+    ],
+    [
+      "knit",
+      574
+    ],
+    [
+      "rw",
+      573
+    ],
+    [
+      "v",
+      567
+    ],
+    [
+      "jersey",
+      557
+    ],
+    [
+      "long",
+      556
+    ],
+    [
+      "swimsuit",
+      553
+    ],
+    [
+      "earring",
+      539
+    ],
+    [
+      "jkt",
+      532
+    ],
+    [
+      "crew",
+      525
+    ],
+    [
+      "blazer",
+      524
+    ],
+    [
+      "cropped",
+      522
+    ],
+    [
+      "sunglasses",
+      519
+    ],
+    [
+      "brief",
+      516
+    ],
+    [
+      "eq",
+      511
+    ],
+    [
+      "jumper",
+      507
+    ],
+    [
+      "pe",
+      505
+    ],
+    [
+      "coat",
+      501
+    ],
+    [
+      "bg",
+      500
+    ],
+    [
+      "cap",
+      497
+    ],
+    [
+      "3pk",
+      492
+    ],
+    [
+      "necklace",
+      489
+    ],
+    [
+      "99",
+      487
+    ],
+    [
+      "on",
+      482
+    ],
+    [
+      "hipster",
+      479
+    ],
+    [
+      "logg",
+      471
+    ],
+    [
+      "printed",
+      468
+    ],
+    [
+      "zip",
+      454
+    ],
+    [
+      "up",
+      450
+    ],
+    [
+      "sock",
+      444
+    ],
+    [
+      "2pk",
+      442
+    ],
+    [
+      "rib",
+      434
+    ],
+    [
+      "tanktop",
+      433
+    ],
+    [
+      "pants",
+      432
+    ],
+    [
+      "knitted",
+      432
+    ],
+    [
+      "brazilian",
+      424
+    ],
+    [
+      "strap",
+      417
+    ],
+    [
+      "bikini",
+      417
+    ],
+    [
+      "parka",
+      410
+    ],
+    [
+      "socks",
+      409
+    ],
+    [
+      "ankle",
+      408
+    ],
+    [
+      "mini",
+      402
+    ],
+    [
+      "thong",
+      392
+    ],
+    [
+      "pile",
+      391
+    ],
+    [
+      "class",
+      389
+    ],
+    [
+      "boxer",
+      383
+    ],
+    [
+      "wide",
+      383
+    ],
+    [
+      "h",
+      370
+    ],
+    [
+      "hoodie",
+      367
+    ],
+    [
+      "5p",
+      366
+    ],
+    [
+      "crewneck",
+      362
+    ],
+    [
+      "seamless",
+      362
+    ],
+    [
+      "tunic",
+      359
+    ],
+    [
+      "pull",
+      353
+    ],
+    [
+      "hat",
+      349
+    ],
+    [
+      "89",
+      348
+    ],
+    [
+      "slacks",
+      347
+    ],
+    [
+      "cargo",
+      344
+    ],
+    [
+      "pu",
+      344
+    ],
+    [
+      "cord",
+      341
+    ],
+    [
+      "fleece",
+      338
+    ],
+    [
+      "shaftless",
+      338
+    ],
+    [
+      "79",
+      337
+    ],
+    [
+      "tie",
+      337
+    ],
+    [
+      "woven",
+      335
+    ],
+    [
+      "belt",
+      334
+    ],
+    [
+      "romper",
+      329
+    ],
+    [
+      "sl",
+      328
+    ],
+    [
+      "sc",
+      327
+    ],
+    [
+      "shoulder",
+      320
+    ],
+    [
+      "sweatpants",
+      319
+    ],
+    [
+      "sweatshirt",
+      317
+    ],
+    [
+      "dungaree",
+      311
+    ],
+    [
+      "chino",
+      308
+    ],
+    [
+      "aop",
+      305
+    ],
+    [
+      "trash",
+      305
+    ],
+    [
+      "headband",
+      302
+    ],
+    [
+      "runner",
+      302
+    ],
+    [
+      "regular",
+      295
+    ],
+    [
+      "sport",
+      293
+    ],
+    [
+      "hoop",
+      291
+    ],
+    [
+      "mc",
+      291
+    ],
+    [
+      "pkt",
+      288
+    ],
+    [
+      "soft",
+      287
+    ],
+    [
+      "fur",
+      287
+    ],
+    [
+      "straight",
+      283
+    ],
+    [
+      "frill",
+      282
+    ],
+    [
+      "premium",
+      281
+    ],
+    [
+      "7",
+      280
+    ],
+    [
+      "wrap",
+      279
+    ],
+    [
+      "biker",
+      278
+    ],
+    [
+      "fun",
+      276
+    ],
+    [
+      "cny",
+      272
+    ],
+    [
+      "ballerina",
+      271
+    ],
+    [
+      "5pkt",
+      266
+    ],
+    [
+      "csp",
+      257
+    ],
+    [
+      "1p",
+      256
+    ],
+    [
+      "knot",
+      246
+    ],
+    [
+      "a",
+      246
+    ],
+    [
+      "wool",
+      244
+    ],
+    [
+      "cs",
+      243
+    ],
+    [
+      "max",
+      240
+    ],
+    [
+      "ak",
+      240
+    ],
+    [
+      "blz",
+      239
+    ],
+    [
+      "tom",
+      236
+    ],
+    [
+      "ring",
+      235
+    ],
+    [
+      "molly",
+      235
+    ],
+    [
+      "own",
+      235
+    ],
+    [
+      "conscious",
+      234
+    ],
+    [
+      "melbourne",
+      233
+    ],
+    [
+      "off",
+      232
+    ],
+    [
+      "charlie",
+      231
+    ],
+    [
+      "cross",
+      230
+    ],
+    [
+      "petite",
+      229
+    ],
+    [
+      "sw",
+      226
+    ],
+    [
+      "maxi",
+      225
+    ],
+    [
+      "band",
+      225
+    ],
+    [
+      "cotton",
+      222
+    ],
+    [
+      "silk",
+      222
+    ],
+    [
+      "short",
+      221
+    ],
+    [
+      "ben",
+      219
+    ],
+    [
+      "mia",
+      219
+    ],
+    [
+      "cheeky",
+      215
+    ],
+    [
+      "deal",
+      215
+    ],
+    [
+      "vest",
+      214
+    ],
+    [
+      "softbra",
+      214
+    ],
+    [
+      "robin",
+      211
+    ],
+    [
+      "love",
+      210
+    ],
+    [
+      "kelly",
+      206
+    ],
+    [
+      "tanga",
+      205
+    ],
+    [
+      "bomber",
+      205
+    ],
+    [
+      "supreme",
+      203
+    ],
+    [
+      "scrunchie",
+      203
+    ],
+    [
+      "straw",
+      202
+    ],
+    [
+      "relaxed",
+      202
+    ],
+    [
+      "stripe",
+      201
+    ],
+    [
+      "pat",
+      201
+    ],
+    [
+      "big",
+      199
+    ],
+    [
+      "mid",
+      199
+    ],
+    [
+      "2pack",
+      198
+    ],
+    [
+      "shopper",
+      194
+    ],
+    [
+      "n",
+      194
+    ],
+    [
+      "ce",
+      194
+    ],
+    [
+      "midi",
+      193
+    ],
+    [
+      "billy",
+      192
+    ],
+    [
+      "check",
+      191
+    ],
+    [
+      "high",
+      191
+    ],
+    [
+      "kim",
+      191
+    ],
+    [
+      "luna",
+      190
+    ],
+    [
+      "henley",
+      188
+    ],
+    [
+      "ch",
+      188
+    ],
+    [
+      "poppy",
+      187
+    ],
+    [
+      "charlotte",
+      187
+    ],
+    [
+      "1pk",
+      187
+    ],
+    [
+      "super",
+      186
+    ],
+    [
+      "waist",
+      185
+    ],
+    [
+      "bd",
+      185
+    ],
+    [
+      "late",
+      185
+    ],
+    [
+      "classic",
+      184
+    ],
+    [
+      "algot",
+      184
+    ],
+    [
+      "espadrille",
+      183
+    ],
+    [
+      "alex",
+      182
+    ],
+    [
+      "summer",
+      181
+    ],
+    [
+      "utility",
+      180
+    ],
+    [
+      "mike",
+      178
+    ],
+    [
+      "triangle",
+      175
+    ],
+    [
+      "holly",
+      175
+    ],
+    [
+      "dragonfly",
+      175
+    ],
+    [
+      "party",
+      174
+    ],
+    [
+      "highwaist",
+      173
+    ],
+    [
+      "mixed",
+      173
+    ],
+    [
+      "bow",
+      173
+    ],
+    [
+      "ll",
+      172
+    ],
+    [
+      "sleeve",
+      172
+    ],
+    [
+      "4",
+      171
+    ],
+    [
+      "5pk",
+      171
+    ],
+    [
+      "c",
+      170
+    ],
+    [
+      "tapered",
+      169
+    ],
+    [
+      "aliceband",
+      168
+    ],
+    [
+      "timeless",
+      168
+    ],
+    [
+      "leather",
+      167
+    ],
+    [
+      "cashmere",
+      165
+    ],
+    [
+      "slip",
+      163
+    ],
+    [
+      "jade",
+      163
+    ],
+    [
+      "sandalette",
+      163
+    ],
+    [
+      "ht",
+      163
+    ],
+    [
+      "bandeau",
+      162
+    ],
+    [
+      "terry",
+      161
+    ],
+    [
+      "anna",
+      161
+    ],
+    [
+      "muscle",
+      161
+    ],
+    [
+      "loose",
+      160
+    ],
+    [
+      "x",
+      160
+    ],
+    [
+      "velvet",
+      160
+    ],
+    [
+      "joggers",
+      159
+    ],
+    [
+      "bralette",
+      159
+    ],
+    [
+      "lily",
+      156
+    ],
+    [
+      "overall",
+      155
+    ],
+    [
+      "stina",
+      155
+    ],
+    [
+      "single",
+      155
+    ],
+    [
+      "9",
+      154
+    ],
+    [
+      "karin",
+      154
+    ],
+    [
+      "mix",
+      153
+    ],
+    [
+      "frida",
+      153
+    ],
+    [
+      "bella",
+      153
+    ],
+    [
+      "princeton",
+      153
+    ],
+    [
+      "chinos",
+      152
+    ],
+    [
+      "kids",
+      152
+    ],
+    [
+      "shoe",
+      151
+    ],
+    [
+      "nora",
+      150
+    ],
+    [
+      "bracelet",
+      149
+    ],
+    [
+      "2pcs",
+      149
+    ],
+    [
+      "playsuit",
+      148
+    ],
+    [
+      "chelsea",
+      147
+    ],
+    [
+      "billie",
+      147
+    ],
+    [
+      "jack",
+      147
+    ],
+    [
+      "lola",
+      147
+    ],
+    [
+      "stella",
+      146
+    ],
+    [
+      "doris",
+      146
+    ],
+    [
+      "bucket",
+      146
+    ],
+    [
+      "pant",
+      145
+    ],
+    [
+      "emma",
+      145
+    ],
+    [
+      "olivia",
+      145
+    ],
+    [
+      "chris",
+      144
+    ],
+    [
+      "loafer",
+      144
+    ],
+    [
+      "oxford",
+      144
+    ],
+    [
+      "me",
+      144
+    ],
+    [
+      "tina",
+      143
+    ],
+    [
+      "easy",
+      143
+    ],
+    [
+      "pump",
+      143
+    ],
+    [
+      "mama",
+      142
+    ],
+    [
+      "honey",
+      142
+    ],
+    [
+      "half",
+      142
+    ],
+    [
+      "blake",
+      142
+    ],
+    [
+      "happy",
+      142
+    ],
+    [
+      "stretch",
+      141
+    ],
+    [
+      "in",
+      141
+    ],
+    [
+      "puff",
+      140
+    ],
+    [
+      "rosie",
+      140
+    ],
+    [
+      "sara",
+      139
+    ],
+    [
+      "balconette",
+      139
+    ],
+    [
+      "wow",
+      139
+    ],
+    [
+      "nils",
+      138
+    ],
+    [
+      "shaping",
+      137
+    ],
+    [
+      "onesie",
+      137
+    ],
+    [
+      "daisy",
+      137
+    ],
+    [
+      "rose",
+      136
+    ],
+    [
+      "legging",
+      136
+    ],
+    [
+      "glove",
+      135
+    ],
+    [
+      "tech",
+      135
+    ],
+    [
+      "ellen",
+      135
+    ],
+    [
+      "james",
+      135
+    ],
+    [
+      "tencel",
+      135
+    ],
+    [
+      "puffer",
+      135
+    ],
+    [
+      "19",
+      135
+    ],
+    [
+      "back",
+      134
+    ],
+    [
+      "d",
+      134
+    ],
+    [
+      "cleo",
+      134
+    ],
+    [
+      "lined",
+      134
+    ],
+    [
+      "suede",
+      133
+    ],
+    [
+      "sp",
+      133
+    ],
+    [
+      "polly",
+      132
+    ],
+    [
+      "func",
+      132
+    ],
+    [
+      "magic",
+      131
+    ],
+    [
+      "co",
+      131
+    ],
+    [
+      "cash",
+      131
+    ],
+    [
+      "print",
+      130
+    ],
+    [
+      "bosse",
+      130
+    ],
+    [
+      "sequins",
+      129
+    ],
+    [
+      "mary",
+      128
+    ],
+    [
+      "td",
+      128
+    ],
+    [
+      "belle",
+      128
+    ],
+    [
+      "pria",
+      128
+    ],
+    [
+      "slipper",
+      127
+    ],
+    [
+      "venice",
+      127
+    ],
+    [
+      "case",
+      127
+    ],
+    [
+      "roll",
+      127
+    ],
+    [
+      "smock",
+      127
+    ],
+    [
+      "amy",
+      126
+    ],
+    [
+      "badger",
+      126
+    ],
+    [
+      "anklesock",
+      126
+    ],
+    [
+      "hm",
+      125
+    ],
+    [
+      "nw",
+      125
+    ],
+    [
+      "micro",
+      124
+    ],
+    [
+      "meadow",
+      124
+    ],
+    [
+      "twill",
+      124
+    ],
+    [
+      "iris",
+      124
+    ],
+    [
+      "fiona",
+      124
+    ],
+    [
+      "greta",
+      123
+    ],
+    [
+      "nasa",
+      123
+    ],
+    [
+      "small",
+      122
+    ],
+    [
+      "freja",
+      122
+    ],
+    [
+      "ctn",
+      122
+    ],
+    [
+      "baby",
+      122
+    ],
+    [
+      "hip",
+      121
+    ],
+    [
+      "cat",
+      121
+    ],
+    [
+      "uv",
+      121
+    ],
+    [
+      "product",
+      121
+    ],
+    [
+      "treggings",
+      120
+    ],
+    [
+      "samantha",
+      120
+    ],
+    [
+      "xmas",
+      119
+    ],
+    [
+      "6",
+      119
+    ],
+    [
+      "benny",
+      119
+    ],
+    [
+      "aston",
+      119
+    ],
+    [
+      "b",
+      119
+    ],
+    [
+      "stud",
+      119
+    ],
+    [
+      "0",
+      118
+    ],
+    [
+      "cc",
+      118
+    ],
+    [
+      "wireless",
+      117
+    ],
+    [
+      "rio",
+      117
+    ],
+    [
+      "it",
+      116
+    ],
+    [
+      "nina",
+      116
+    ],
+    [
+      "paul",
+      116
+    ],
+    [
+      "mom",
+      116
+    ],
+    [
+      "noah",
+      116
+    ],
+    [
+      "paris",
+      115
+    ],
+    [
+      "essential",
+      115
+    ],
+    [
+      "ronny",
+      115
+    ],
+    [
+      "longsleeve",
+      114
+    ],
+    [
+      "velour",
+      114
+    ],
+    [
+      "tube",
+      114
+    ],
+    [
+      "acacia",
+      114
+    ],
+    [
+      "henry",
+      114
+    ],
+    [
+      "pluto",
+      114
+    ],
+    [
+      "kaftan",
+      114
+    ],
+    [
+      "alice",
+      113
+    ],
+    [
+      "leg",
+      112
+    ],
+    [
+      "malaga",
+      112
+    ],
+    [
+      "light",
+      112
+    ],
+    [
+      "nova",
+      112
+    ],
+    [
+      "resort",
+      111
+    ],
+    [
+      "bob",
+      110
+    ],
+    [
+      "iron",
+      109
+    ],
+    [
+      "cable",
+      109
+    ],
+    [
+      "casual",
+      109
+    ],
+    [
+      "bobby",
+      108
+    ],
+    [
+      "taylor",
+      108
+    ],
+    [
+      "7p",
+      107
+    ],
+    [
+      "frame",
+      107
+    ],
+    [
+      "sam",
+      107
+    ],
+    [
+      "bruce",
+      106
+    ],
+    [
+      "daniel",
+      106
+    ],
+    [
+      "andy",
+      106
+    ],
+    [
+      "bandana",
+      106
+    ],
+    [
+      "hannah",
+      106
+    ],
+    [
+      "flora",
+      105
+    ],
+    [
+      "lee",
+      105
+    ],
+    [
+      "penny",
+      105
+    ],
+    [
+      "midprice",
+      105
+    ],
+    [
+      "maja",
+      105
+    ],
+    [
+      "naomi",
+      105
+    ],
+    [
+      "3pack",
+      104
+    ],
+    [
+      "cut",
+      104
+    ],
+    [
+      "julia",
+      104
+    ],
+    [
+      "zebra",
+      104
+    ],
+    [
+      "jaquard",
+      104
+    ],
+    [
+      "coco",
+      104
+    ],
+    [
+      "kate",
+      103
+    ],
+    [
+      "axel",
+      103
+    ],
+    [
+      "nike",
+      103
+    ],
+    [
+      "camden",
+      103
+    ],
+    [
+      "bolero",
+      103
+    ],
+    [
+      "cf",
+      103
+    ],
+    [
+      "heavy",
+      102
+    ],
+    [
+      "oliver",
+      102
+    ],
+    [
+      "oh",
+      102
+    ],
+    [
+      "bottom",
+      102
+    ],
+    [
+      "john",
+      101
+    ],
+    [
+      "peter",
+      101
+    ],
+    [
+      "kimono",
+      101
+    ],
+    [
+      "sally",
+      101
+    ],
+    [
+      "tuxedo",
+      100
+    ],
+    [
+      "tulle",
+      100
+    ],
+    [
+      "rc",
+      100
+    ],
+    [
+      "cora",
+      99
+    ],
+    [
+      "johan",
+      99
+    ],
+    [
+      "willow",
+      99
+    ],
+    [
+      "havana",
+      99
+    ],
+    [
+      "and",
+      99
+    ],
+    [
+      "le",
+      99
+    ],
+    [
+      "string",
+      98
+    ],
+    [
+      "girly",
+      98
+    ],
+    [
+      "halloween",
+      98
+    ],
+    [
+      "ski",
+      98
+    ],
+    [
+      "mas",
+      98
+    ],
+    [
+      "twist",
+      98
+    ],
+    [
+      "the",
+      98
+    ],
+    [
+      "diana",
+      98
+    ],
+    [
+      "with",
+      97
+    ],
+    [
+      "vera",
+      97
+    ],
+    [
+      "agnes",
+      97
+    ],
+    [
+      "gyda",
+      97
+    ],
+    [
+      "support",
+      96
+    ],
+    [
+      "joel",
+      96
+    ],
+    [
+      "jake",
+      96
+    ],
+    [
+      "detroit",
+      96
+    ],
+    [
+      "leo",
+      95
+    ],
+    [
+      "shape",
+      94
+    ],
+    [
+      "frank",
+      94
+    ],
+    [
+      "sporty",
+      94
+    ],
+    [
+      "paperbag",
+      94
+    ],
+    [
+      "gilda",
+      94
+    ],
+    [
+      "ruby",
+      94
+    ],
+    [
+      "waterproof",
+      94
+    ],
+    [
+      "sigge",
+      93
+    ],
+    [
+      "maria",
+      93
+    ],
+    [
+      "ivy",
+      93
+    ],
+    [
+      "rain",
+      93
+    ],
+    [
+      "dolly",
+      93
+    ],
+    [
+      "structure",
+      93
+    ],
+    [
+      "offer",
+      93
+    ],
+    [
+      "shacket",
+      93
+    ],
+    [
+      "pocket",
+      92
+    ],
+    [
+      "malva",
+      92
+    ],
+    [
+      "ginger",
+      92
+    ],
+    [
+      "mesh",
+      92
+    ],
+    [
+      "tilly",
+      92
+    ],
+    [
+      "jonas",
+      91
+    ],
+    [
+      "eivor",
+      91
+    ],
+    [
+      "bree",
+      91
+    ],
+    [
+      "cozy",
+      91
+    ],
+    [
+      "malte",
+      90
+    ],
+    [
+      "michael",
+      90
+    ],
+    [
+      "jennifer",
+      90
+    ],
+    [
+      "24",
+      89
+    ],
+    [
+      "rachel",
+      89
+    ]
+  ],
+  "multi_cat_types": {
+    "Umbrella": [
+      "Items",
+      "Accessories"
+    ]
+  },
+  "price_stats": {
+    "overall": {
+      "min": 199,
+      "p10": 699.0,
+      "p25": 1199.0,
+      "median": 1999.0,
+      "p75": 2799.0,
+      "p90": 3799.0,
+      "p99": 7799.0,
+      "max": 8999
+    }
+  }
+}

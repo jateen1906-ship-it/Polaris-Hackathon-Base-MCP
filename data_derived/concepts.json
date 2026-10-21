@@ -1,0 +1,345 @@
+{
+  "party": {
+    "type_families": [
+      "dresses",
+      "footwear",
+      "bags",
+      "jewellery",
+      "outerwear"
+    ],
+    "keywords": [
+      "dress",
+      "heels",
+      "clutch",
+      "blazer",
+      "velvet",
+      "satin",
+      "lace",
+      "glittering",
+      "sequin"
+    ],
+    "product_types": [
+      "Dress",
+      "Heels",
+      "Heeled sandals",
+      "Blazer",
+      "Earrings",
+      "Necklace"
+    ],
+    "evidence_count": 179
+  },
+  "wedding": {
+    "type_families": [
+      "dresses",
+      "outerwear",
+      "footwear",
+      "jewellery",
+      "accessories"
+    ],
+    "keywords": [
+      "dress",
+      "blazer",
+      "suit",
+      "tie",
+      "heels",
+      "shirt",
+      "elegant",
+      "silk",
+      "lace"
+    ],
+    "product_types": [
+      "Dress",
+      "Blazer",
+      "Shirt",
+      "Tie",
+      "Heels",
+      "Earrings"
+    ],
+    "evidence_count": 21
+  },
+  "office": {
+    "type_families": [
+      "tops",
+      "bottoms",
+      "outerwear",
+      "footwear",
+      "bags"
+    ],
+    "keywords": [
+      "blazer",
+      "shirt",
+      "blouse",
+      "trousers",
+      "slacks",
+      "pencil skirt",
+      "loafers",
+      "tote bag"
+    ],
+    "product_types": [
+      "Blazer",
+      "Shirt",
+      "Blouse",
+      "Trousers",
+      "Flat shoe",
+      "Tote bag"
+    ],
+    "evidence_count": 10
+  },
+  "work": {
+    "type_families": [
+      "tops",
+      "bottoms",
+      "outerwear",
+      "footwear"
+    ],
+    "keywords": [
+      "blazer",
+      "shirt",
+      "blouse",
+      "trousers",
+      "chinos",
+      "flat shoe"
+    ],
+    "product_types": [
+      "Blazer",
+      "Shirt",
+      "Blouse",
+      "Trousers",
+      "Flat shoe"
+    ],
+    "evidence_count": 10
+  },
+  "casual": {
+    "type_families": [
+      "tops",
+      "bottoms",
+      "footwear"
+    ],
+    "keywords": [
+      "t-shirt",
+      "tee",
+      "jeans",
+      "trousers",
+      "hoodie",
+      "sneakers",
+      "denim",
+      "cotton"
+    ],
+    "product_types": [
+      "T-shirt",
+      "Trousers",
+      "Hoodie",
+      "Sneakers",
+      "Shorts"
+    ],
+    "evidence_count": 167
+  },
+  "winter": {
+    "type_families": [
+      "outerwear",
+      "tops",
+      "footwear",
+      "accessories"
+    ],
+    "keywords": [
+      "coat",
+      "jacket",
+      "parka",
+      "sweater",
+      "cardigan",
+      "boots",
+      "scarf",
+      "beanie",
+      "gloves",
+      "wool",
+      "fleece"
+    ],
+    "product_types": [
+      "Coat",
+      "Jacket",
+      "Sweater",
+      "Boots",
+      "Scarf",
+      "Beanie",
+      "Gloves"
+    ],
+    "evidence_count": 53
+  },
+  "summer": {
+    "type_families": [
+      "tops",
+      "bottoms",
+      "dresses",
+      "footwear",
+      "swimwear",
+      "accessories"
+    ],
+    "keywords": [
+      "shorts",
+      "skirt",
+      "dress",
+      "t-shirt",
+      "vest top",
+      "sandals",
+      "flip flop",
+      "swimsuit",
+      "sunglasses",
+      "linen"
+    ],
+    "product_types": [
+      "Shorts",
+      "Skirt",
+      "Dress",
+      "Vest top",
+      "Sandals",
+      "Flip flop",
+      "Swimsuit",
+      "Sunglasses"
+    ],
+    "evidence_count": 183
+  },
+  "beach": {
+    "type_families": [
+      "swimwear",
+      "footwear",
+      "accessories",
+      "bags"
+    ],
+    "keywords": [
+      "swimsuit",
+      "bikini",
+      "flip flop",
+      "sandals",
+      "sunglasses",
+      "towel",
+      "sarong"
+    ],
+    "product_types": [
+      "Swimsuit",
+      "Bikini top",
+      "Swimwear bottom",
+      "Flip flop",
+      "Sunglasses",
+      "Towel",
+      "Sarong"
+    ],
+    "evidence_count": 86
+  },
+  "gym": {
+    "type_families": [
+      "tops",
+      "bottoms",
+      "footwear",
+      "bags"
+    ],
+    "keywords": [
+      "sport",
+      "sports",
+      "running",
+      "joggers",
+      "sneakers",
+      "tights",
+      "leggings",
+      "gym bag"
+    ],
+    "product_types": [
+      "Trousers",
+      "Sneakers",
+      "T-shirt",
+      "Weekend/Gym bag"
+    ],
+    "evidence_count": 456
+  },
+  "workout": {
+    "type_families": [
+      "tops",
+      "bottoms",
+      "footwear"
+    ],
+    "keywords": [
+      "sport",
+      "sports",
+      "running",
+      "joggers",
+      "sneakers",
+      "tights"
+    ],
+    "product_types": [
+      "Trousers",
+      "Sneakers",
+      "T-shirt"
+    ],
+    "evidence_count": 456
+  },
+  "lazy": {
+    "type_families": [
+      "nightwear",
+      "tops",
+      "bottoms",
+      "footwear"
+    ],
+    "keywords": [
+      "pyjamas",
+      "pj",
+      "hoodie",
+      "sweatpants",
+      "joggers",
+      "slippers",
+      "soft",
+      "fleece",
+      "robe"
+    ],
+    "product_types": [
+      "Pyjama set",
+      "Pyjama bottom",
+      "Hoodie",
+      "Sweater",
+      "Slippers",
+      "Robe"
+    ],
+    "evidence_count": 36
+  },
+  "sleep": {
+    "type_families": [
+      "nightwear"
+    ],
+    "keywords": [
+      "pyjamas",
+      "night gown",
+      "robe",
+      "pj",
+      "sleepwear",
+      "soft cotton jersey"
+    ],
+    "product_types": [
+      "Pyjama set",
+      "Pyjama bottom",
+      "Night gown",
+      "Robe"
+    ],
+    "evidence_count": 36
+  },
+  "festive": {
+    "type_families": [
+      "dresses",
+      "jewellery",
+      "outerwear"
+    ],
+    "keywords": [
+      "dress",
+      "glittering",
+      "metallic",
+      "earrings",
+      "necklace",
+      "velvet",
+      "satin"
+    ],
+    "product_types": [
+      "Dress",
+      "Earrings",
+      "Necklace",
+      "Blazer"
+    ],
+    "evidence_count": 6
+  }
+}

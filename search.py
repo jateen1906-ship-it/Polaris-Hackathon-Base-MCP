@@ -28,6 +28,9 @@ def validate_arguments(arguments):
         raise ValueError('min_price cannot exceed max_price')
 
 
+from seo.engine import SearchEngine
+
+
 @lru_cache(maxsize=2048)
 def tokens(text):
     return tuple(re.findall(r'\w+', text.casefold()))
@@ -35,11 +38,12 @@ def tokens(text):
 
 class Catalog:
     def __init__(self, products):
-        self.products = sorted(products, key=lambda p: p['id'])
+        self.products = sorted(products, key=lambda p: str(p.get('id') or ''))
         self.words = {
             p['id']: set(tokens(' '.join(str(p.get(k) or '') for k in
                 ('name', 'description', *STRING_FILTERS)))) for p in self.products
         }
+        self.engine = SearchEngine(self.products, index_dir=ROOT / 'index')
 
     @classmethod
     def load(cls, path):
@@ -55,7 +59,13 @@ class Catalog:
 
     def recommend(self, results, arguments):
         """Student extension: return up to five complementary product references."""
-        return []
+        primary_indices = [
+            self.engine.index.id_to_idx[r['id']]
+            for r in results if r['id'] in self.engine.index.id_to_idx
+        ]
+        return self.engine.generate_recommendations(
+            results, primary_indices, None, arguments.get('filters', {})
+        )
 
     @staticmethod
     def matches(product, filters):
@@ -72,29 +82,4 @@ class Catalog:
 
     def search(self, arguments):
         validate_arguments(arguments)
-        query = tokens(arguments.get('query', '').strip())
-        filters = arguments.get('filters', {})
-        candidates = [p for p in self.products if self.matches(p, filters)]
-        scores = {}
-        if query:
-            scores = {p['id']: self.relevance(p, query) for p in candidates}
-            candidates = [p for p in candidates if scores[p['id']] > 0]
-        sort_by = arguments.get('sort_by', 'relevance')
-        reverse = arguments.get('sort_order', 'desc') == 'desc'
-        # Stable sort preserves ascending ID for equal keys, in either direction.
-        if sort_by == 'relevance':
-            if query:
-                candidates.sort(key=lambda p: scores[p['id']], reverse=reverse)
-        elif sort_by == 'rating':
-            rated = [p for p in candidates if p['rating']['average'] is not None]
-            unrated = [p for p in candidates if p['rating']['average'] is None]
-            rated.sort(key=lambda p: p['rating']['average'], reverse=reverse)
-            candidates = rated + unrated
-        else:
-            key = {'id': lambda p: p['id'], 'price': lambda p: p['price']['amount'],
-                   'review_count': lambda p: p['rating']['count']}[sort_by]
-            candidates.sort(key=key, reverse=reverse)
-        offset, limit = arguments.get('offset', 0), arguments.get('limit', 10)
-        results = [{'id': p['id']} for p in candidates[offset:offset + limit]]
-        return {'results': results, 'recommendations':
-                self.recommend(results, arguments) if results and arguments.get('include_recommendations', False) else []}
+        return self.engine.execute_search(arguments)

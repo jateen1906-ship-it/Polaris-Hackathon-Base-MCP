@@ -1,0 +1,2422 @@
+{
+  "tree": {
+    "Womens Everyday Basics": {
+      "Ladieswear": {
+        "Garment Upper body": [
+          "Bodysuit",
+          "Cardigan",
+          "Hoodie",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Womens Lingerie": {
+      "Lingeries/Tights": {
+        "Underwear": [
+          "Bra",
+          "Bra extender",
+          "Nipple covers",
+          "Underdress",
+          "Underwear body",
+          "Underwear bottom",
+          "Underwear corset",
+          "Underwear set"
+        ],
+        "Nightwear": [
+          "Night gown",
+          "Pyjama set"
+        ],
+        "Unknown": [
+          "Unknown"
+        ],
+        "Swimwear": [
+          "Bikini top",
+          "Swimsuit",
+          "Swimwear bottom"
+        ],
+        "Shoes": [
+          "Slippers"
+        ]
+      }
+    },
+    "Womens Nightwear, Socks & Tigh": {
+      "Lingeries/Tights": {
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights"
+        ],
+        "Unknown": [
+          "Unknown"
+        ],
+        "Nightwear": [
+          "Night gown",
+          "Pyjama bottom",
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Underwear": [
+          "Bra",
+          "Nipple covers",
+          "Robe"
+        ],
+        "Shoes": [
+          "Slippers"
+        ]
+      },
+      "Ladieswear": {
+        "Garment Upper body": [
+          "Cardigan",
+          "Hoodie",
+          "Sweater",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dress"
+        ],
+        "Underwear": [
+          "Bra"
+        ],
+        "Nightwear": [
+          "Pyjama bottom",
+          "Pyjama set"
+        ]
+      }
+    },
+    "Baby Essentials & Complements": {
+      "Baby Sizes 50-98": {
+        "Garment Upper body": [
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Nightwear": [
+          "Night gown",
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Underwear/nightwear": [
+          "Sleep Bag",
+          "Sleeping sack"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Costumes",
+          "Dress",
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit",
+          "Outdoor overall"
+        ],
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ],
+        "Accessories": [
+          "Accessories set",
+          "Baby Bib",
+          "Beanie",
+          "Belt",
+          "Bucket hat",
+          "Cap",
+          "Cap/peaked",
+          "Gloves",
+          "Hair/alice band",
+          "Hat/beanie",
+          "Hat/brim",
+          "Other accessories",
+          "Scarf",
+          "Soft Toys",
+          "Straw hat",
+          "Sunglasses",
+          "Tie"
+        ],
+        "Shoes": [
+          "Bootie",
+          "Other shoe",
+          "Pre-walkers",
+          "Slippers"
+        ],
+        "Swimwear": [
+          "Swimsuit",
+          "Swimwear bottom",
+          "Swimwear set"
+        ],
+        "Interior textile": [
+          "Blanket",
+          "Cushion",
+          "Towel"
+        ],
+        "Underwear": [
+          "Robe",
+          "Underwear body"
+        ]
+      }
+    },
+    "Men Underwear": {
+      "Menswear": {
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Underwear": [
+          "Bra",
+          "Long John",
+          "Robe",
+          "Underwear bottom"
+        ],
+        "Garment Upper body": [
+          "Hoodie",
+          "Polo shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ],
+        "Swimwear": [
+          "Swimwear bottom"
+        ],
+        "Unknown": [
+          "Unknown"
+        ],
+        "Nightwear": [
+          "Pyjama bottom",
+          "Pyjama set"
+        ]
+      }
+    },
+    "Mama": {
+      "Ladieswear": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Outdoor trousers",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blouse",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Underwear": [
+          "Bra"
+        ],
+        "Nightwear": [
+          "Night gown",
+          "Pyjama set"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Womens Small accessories": {
+      "Ladies Accessories": {
+        "Accessories": [
+          "Alice band",
+          "Bracelet",
+          "Dog Wear",
+          "Earring",
+          "Earrings",
+          "Hair clip",
+          "Hair string",
+          "Hair ties",
+          "Hair/alice band",
+          "Hairband",
+          "Necklace",
+          "Other accessories",
+          "Ring",
+          "Sunglasses",
+          "Umbrella",
+          "Wallet",
+          "Watch"
+        ],
+        "Items": [
+          "Dog wear",
+          "Mobile case",
+          "Umbrella",
+          "Wireless earphone case"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Men H&M Sport": {
+      "Sport": {
+        "Garment Upper body": [
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Sweater",
+          "T-shirt",
+          "Tailored Waistcoat",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Outdoor trousers",
+          "Shorts",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Bag",
+          "Cap/peaked",
+          "Giftbox",
+          "Gloves",
+          "Hat/beanie",
+          "Other accessories",
+          "Scarf",
+          "Waterbottle"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ],
+        "Underwear": [
+          "Long John",
+          "Underwear bottom"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Kids Boy": {
+      "Children Sizes 92-140": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Tailored Waistcoat",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Full body": [
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ],
+        "Underwear": [
+          "Underwear bottom"
+        ],
+        "Accessories": [
+          "Gloves",
+          "Hat/beanie",
+          "Other accessories"
+        ],
+        "Swimwear": [
+          "Swimwear top"
+        ]
+      }
+    },
+    "Divided Basics": {
+      "Divided": {
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Hoodie",
+          "Polo shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Full body": [
+          "Dress"
+        ],
+        "Underwear": [
+          "Bra",
+          "Underwear bottom",
+          "Underwear set"
+        ],
+        "Swimwear": [
+          "Bikini top",
+          "Swimsuit",
+          "Swimwear bottom",
+          "Swimwear set"
+        ]
+      }
+    },
+    "Girls Underwear & Basics": {
+      "Children Sizes 134-170": {
+        "Garment Upper body": [
+          "Hoodie",
+          "Polo shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Underwear": [
+          "Kids Underwear top",
+          "Robe",
+          "Underwear bottom",
+          "Underwear set"
+        ],
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ],
+        "Nightwear": [
+          "Night gown",
+          "Pyjama bottom",
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      },
+      "Children Sizes 92-140": {
+        "Garment Upper body": [
+          "Hoodie",
+          "Polo shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Nightwear": [
+          "Night gown",
+          "Pyjama bottom",
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Underwear": [
+          "Long John",
+          "Robe",
+          "Underwear bottom",
+          "Underwear set"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ]
+      }
+    },
+    "Mens Outerwear": {
+      "Menswear": {
+        "Garment Upper body": [
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Womens Big accessories": {
+      "Ladies Accessories": {
+        "Accessories": [
+          "Bag",
+          "Belt",
+          "Cap/peaked",
+          "Felt hat",
+          "Gloves",
+          "Hair/alice band",
+          "Hat/beanie",
+          "Hat/brim",
+          "Headband",
+          "Other accessories",
+          "Scarf",
+          "Wallet"
+        ],
+        "Garment Upper body": [
+          "Top"
+        ],
+        "Bags": [
+          "Cross-body bag"
+        ]
+      }
+    },
+    "Divided Accessories": {
+      "Divided": {
+        "Shoes": [
+          "Ballerinas",
+          "Boots",
+          "Flat shoe",
+          "Flip flop",
+          "Heels",
+          "Pumps",
+          "Sandals",
+          "Slippers",
+          "Sneakers",
+          "Wedge"
+        ],
+        "Accessories": [
+          "Bag",
+          "Beanie",
+          "Belt",
+          "Bracelet",
+          "Bucket hat",
+          "Cap",
+          "Cap/peaked",
+          "Earring",
+          "Felt hat",
+          "Giftbox",
+          "Gloves",
+          "Hair clip",
+          "Hair string",
+          "Hair ties",
+          "Hair/alice band",
+          "Hat/beanie",
+          "Hat/brim",
+          "Necklace",
+          "Other accessories",
+          "Ring",
+          "Scarf",
+          "Straw hat",
+          "Sunglasses",
+          "Umbrella",
+          "Wallet",
+          "Waterbottle"
+        ],
+        "Bags": [
+          "Backpack",
+          "Cross-body bag",
+          "Shoulder bag",
+          "Tote bag",
+          "Weekend/Gym bag"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Womens Swimwear, beachwear": {
+      "Lingeries/Tights": {
+        "Swimwear": [
+          "Bikini top",
+          "Sarong",
+          "Swimsuit",
+          "Swimwear bottom",
+          "Swimwear set"
+        ],
+        "Accessories": [
+          "Other accessories",
+          "Scarf"
+        ],
+        "Underwear": [
+          "Underwear body"
+        ],
+        "Garment Full body": [
+          "Dress"
+        ],
+        "Garment Upper body": [
+          "Top"
+        ]
+      }
+    },
+    "Divided Selected": {
+      "Divided": {
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Tailored Waistcoat",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ]
+      }
+    },
+    "Boys Underwear & Basics": {
+      "Children Sizes 92-140": {
+        "Garment Upper body": [
+          "Cardigan",
+          "Hoodie",
+          "Polo shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ],
+        "Nightwear": [
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Underwear": [
+          "Long John",
+          "Robe",
+          "Underwear bottom"
+        ]
+      },
+      "Children Sizes 134-170": {
+        "Garment Upper body": [
+          "Hoodie",
+          "Polo shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Nightwear": [
+          "Pyjama bottom",
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ],
+        "Underwear": [
+          "Long John",
+          "Robe",
+          "Underwear bottom"
+        ]
+      }
+    },
+    "Contemporary Street": {
+      "Menswear": {
+        "Garment Upper body": [
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Cap/peaked",
+          "Other accessories"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Contemporary Casual": {
+      "Menswear": {
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Vest top"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Men Accessories": {
+      "Menswear": {
+        "Accessories": [
+          "Bag",
+          "Beanie",
+          "Belt",
+          "Bracelet",
+          "Braces",
+          "Bucket hat",
+          "Cap",
+          "Cap/peaked",
+          "Earring",
+          "Eyeglasses",
+          "Felt hat",
+          "Giftbox",
+          "Gloves",
+          "Hat/beanie",
+          "Hat/brim",
+          "Necklace",
+          "Other accessories",
+          "Ring",
+          "Scarf",
+          "Straw hat",
+          "Sunglasses",
+          "Tie",
+          "Wallet",
+          "Watch"
+        ],
+        "Bags": [
+          "Backpack",
+          "Cross-body bag",
+          "Weekend/Gym bag"
+        ],
+        "Items": [
+          "Keychain"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Men Suits & Tailoring": {
+      "Menswear": {
+        "Garment Upper body": [
+          "Blazer",
+          "Cardigan",
+          "Coat",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Tailored Waistcoat",
+          "Top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Womens Everyday Collection": {
+      "Ladieswear": {
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Outdoor trousers",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Jumpsuit/Playsuit"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Men Shoes": {
+      "Menswear": {
+        "Shoes": [
+          "Boots",
+          "Flat shoes",
+          "Flip flop",
+          "Other shoe",
+          "Sandals",
+          "Slippers",
+          "Sneakers"
+        ]
+      }
+    },
+    "Young Boy": {
+      "Children Sizes 134-170": {
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Tailored Waistcoat",
+          "Top",
+          "Vest top"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "H&M+": {
+      "Ladieswear": {
+        "Garment Full body": [
+          "Costumes",
+          "Dress",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Outdoor trousers",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Swimwear": [
+          "Bikini top",
+          "Swimsuit",
+          "Swimwear bottom"
+        ],
+        "Underwear": [
+          "Bra",
+          "Robe",
+          "Underwear bottom"
+        ],
+        "Nightwear": [
+          "Night gown",
+          "Pyjama bottom",
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Accessories": [
+          "Other accessories"
+        ]
+      }
+    },
+    "Divided Collection": {
+      "Divided": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Jumpsuit/Playsuit"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Ladies Denim": {
+      "Divided": {
+        "Garment Full body": [
+          "Dress",
+          "Dungarees"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blouse",
+          "Jacket",
+          "Shirt"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      },
+      "Ladieswear": {
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blouse",
+          "Jacket",
+          "Shirt"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Contemporary Smart": {
+      "Menswear": {
+        "Garment Upper body": [
+          "Blazer",
+          "Cardigan",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Womens Trend": {
+      "Ladieswear": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Jacket",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Swimwear": [
+          "Bikini top",
+          "Swimsuit",
+          "Swimwear bottom"
+        ],
+        "Accessories": [
+          "Bag",
+          "Bracelet",
+          "Earring",
+          "Hair clip",
+          "Hair/alice band",
+          "Hat/brim",
+          "Necklace",
+          "Scarf",
+          "Sunglasses"
+        ]
+      }
+    },
+    "Kids Outerwear": {
+      "Children Accessories, Swimwear": {
+        "Accessories": [
+          "Accessories set",
+          "Bag",
+          "Beanie",
+          "Belt",
+          "Bracelet",
+          "Cap/peaked",
+          "Gloves",
+          "Hat/beanie",
+          "Hat/brim",
+          "Other accessories",
+          "Scarf",
+          "Sunglasses",
+          "Tie"
+        ],
+        "Garment Full body": [
+          "Garment Set"
+        ],
+        "Garment Upper body": [
+          "Shirt"
+        ],
+        "Bags": [
+          "Backpack",
+          "Bumbag"
+        ]
+      },
+      "Children Sizes 92-140": {
+        "Garment Upper body": [
+          "Blazer",
+          "Coat",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Top"
+        ],
+        "Garment Lower body": [
+          "Outdoor trousers",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Costumes",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ]
+      },
+      "Children Sizes 134-170": {
+        "Garment Upper body": [
+          "Blazer",
+          "Coat",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Top"
+        ],
+        "Garment Full body": [
+          "Garment Set"
+        ],
+        "Garment Lower body": [
+          "Outdoor trousers",
+          "Trousers"
+        ]
+      }
+    },
+    "Young Girl": {
+      "Children Sizes 134-170": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blouse",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Nightwear": [
+          "Pyjama jumpsuit/playsuit"
+        ]
+      }
+    },
+    "Womens Shoes": {
+      "Ladies Accessories": {
+        "Shoes": [
+          "Ballerinas",
+          "Bootie",
+          "Boots",
+          "Flat shoe",
+          "Flat shoes",
+          "Flip flop",
+          "Heeled sandals",
+          "Heels",
+          "Other shoe",
+          "Pumps",
+          "Sandals",
+          "Slippers",
+          "Sneakers",
+          "Wedge"
+        ]
+      }
+    },
+    "Womens Tailoring": {
+      "Ladieswear": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Cardigan",
+          "Coat",
+          "Jacket",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Divided Projects": {
+      "Divided": {
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Outdoor trousers",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Bag",
+          "Cap/peaked",
+          "Hair/alice band",
+          "Hat/brim",
+          "Necklace",
+          "Other accessories",
+          "Scarf"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ]
+      }
+    },
+    "Denim Men": {
+      "Menswear": {
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dungarees"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Men Other": {
+      "Menswear": {
+        "Accessories": [
+          "Bag",
+          "Belt",
+          "Hat/brim",
+          "Sunglasses"
+        ],
+        "Garment Upper body": [
+          "Hoodie",
+          "Jacket",
+          "Shirt"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Shoes": [
+          "Sandals"
+        ]
+      }
+    },
+    "Womens Jackets": {
+      "Ladieswear": {
+        "Garment Upper body": [
+          "Blazer",
+          "Coat",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Tailored Waistcoat"
+        ]
+      }
+    },
+    "Men Other 2": {
+      "Menswear": {
+        "Garment Upper body": [
+          "Blazer",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Polo shirt",
+          "Shirt",
+          "T-shirt",
+          "Tailored Waistcoat",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Costumes"
+        ]
+      }
+    },
+    "Baby Boy": {
+      "Baby Sizes 50-98": {
+        "Garment Full body": [
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit",
+          "Outdoor overall"
+        ],
+        "Garment Lower body": [
+          "Outdoor trousers",
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ]
+      }
+    },
+    "Womens Casual": {
+      "Ladieswear": {
+        "Garment Upper body": [
+          "Blouse",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Hat/beanie"
+        ],
+        "Garment Full body": [
+          "Dress"
+        ]
+      }
+    },
+    "Kids Accessories, Swimwear & D": {
+      "Children Accessories, Swimwear": {
+        "Swimwear": [
+          "Bikini top",
+          "Sarong",
+          "Swimsuit",
+          "Swimwear bottom",
+          "Swimwear set",
+          "Swimwear top"
+        ],
+        "Garment Full body": [
+          "Costumes",
+          "Dress",
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Accessories": [
+          "Accessories set",
+          "Alice band",
+          "Bag",
+          "Belt",
+          "Bracelet",
+          "Cap/peaked",
+          "Giftbox",
+          "Gloves",
+          "Hair clip",
+          "Hair string",
+          "Hair ties",
+          "Hair/alice band",
+          "Hat/beanie",
+          "Hat/brim",
+          "Necklace",
+          "Other accessories",
+          "Ring",
+          "Soft Toys",
+          "Sunglasses",
+          "Tie",
+          "Waterbottle"
+        ],
+        "Shoes": [
+          "Ballerinas",
+          "Other shoe"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt"
+        ],
+        "Cosmetic": [
+          "Chem. cosmetics",
+          "Fine cosmetics"
+        ],
+        "Unknown": [
+          "Unknown"
+        ],
+        "Socks & Tights": [
+          "Leg warmers",
+          "Socks"
+        ],
+        "Garment Upper body": [
+          "Bodysuit",
+          "Jacket",
+          "T-shirt",
+          "Top"
+        ],
+        "Fun": [
+          "Toy"
+        ]
+      }
+    },
+    "Ladies H&M Sport": {
+      "Sport": {
+        "Underwear": [
+          "Bra",
+          "Underwear bottom"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Outdoor trousers",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Swimwear": [
+          "Bikini top",
+          "Sarong",
+          "Swimsuit",
+          "Swimwear bottom"
+        ],
+        "Accessories": [
+          "Bag",
+          "Cap/peaked",
+          "Gloves",
+          "Hair string",
+          "Hat/beanie",
+          "Other accessories",
+          "Waterbottle"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ],
+        "Shoes": [
+          "Sandals"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Kids & Baby Shoes": {
+      "Children Accessories, Swimwear": {
+        "Shoes": [
+          "Ballerinas",
+          "Bootie",
+          "Boots",
+          "Flat shoe",
+          "Flip flop",
+          "Other shoe",
+          "Sandals",
+          "Slippers",
+          "Sneakers"
+        ]
+      },
+      "Baby Sizes 50-98": {
+        "Shoes": [
+          "Ballerinas",
+          "Boots",
+          "Flat shoe",
+          "Moccasins",
+          "Other shoe",
+          "Sandals",
+          "Slippers",
+          "Sneakers"
+        ]
+      }
+    },
+    "Baby Girl": {
+      "Baby Sizes 50-98": {
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit",
+          "Outdoor overall"
+        ],
+        "Garment Upper body": [
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Sweater",
+          "T-shirt",
+          "Tailored Waistcoat",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Outdoor trousers",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Kids Girl": {
+      "Children Sizes 92-140": {
+        "Garment Full body": [
+          "Dress",
+          "Dungarees",
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Blouse",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Nightwear": [
+          "Pyjama jumpsuit/playsuit",
+          "Pyjama set"
+        ],
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ],
+        "Swimwear": [
+          "Swimsuit"
+        ],
+        "Accessories": [
+          "Hair/alice band",
+          "Hat/brim"
+        ],
+        "Unknown": [
+          "Unknown"
+        ]
+      }
+    },
+    "Divided Complements Other": {
+      "Divided": {
+        "Garment Full body": [
+          "Dress"
+        ],
+        "Shoes": [
+          "Sandals",
+          "Sneakers"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Hoodie",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Accessories": [
+          "Hat/brim"
+        ]
+      }
+    },
+    "Womens Premium": {
+      "Ladieswear": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Accessories": [
+          "Beanie",
+          "Gloves",
+          "Hat/beanie",
+          "Other accessories",
+          "Scarf"
+        ]
+      }
+    },
+    "Special Collections": {
+      "Ladieswear": {
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Bodysuit",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Bag",
+          "Belt",
+          "Bracelet",
+          "Cap/peaked",
+          "Earring",
+          "Hair clip",
+          "Hair/alice band",
+          "Hat/beanie",
+          "Necklace",
+          "Other accessories",
+          "Ring",
+          "Scarf",
+          "Sunglasses"
+        ],
+        "Underwear": [
+          "Bra",
+          "Underwear body",
+          "Underwear bottom"
+        ],
+        "Shoes": [
+          "Boots",
+          "Flip flop",
+          "Heeled sandals",
+          "Pumps",
+          "Sandals",
+          "Slippers"
+        ],
+        "Swimwear": [
+          "Bikini top",
+          "Swimsuit",
+          "Swimwear bottom",
+          "Swimwear set"
+        ],
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ]
+      }
+    },
+    "Kids Sports": {
+      "Sport": {
+        "Garment Lower body": [
+          "Leggings/Tights",
+          "Shorts",
+          "Trousers"
+        ],
+        "Garment Upper body": [
+          "Hoodie",
+          "Jacket",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Underwear": [
+          "Bra",
+          "Underwear bottom"
+        ],
+        "Garment Full body": [
+          "Garment Set"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ],
+        "Accessories": [
+          "Bag",
+          "Hat/beanie",
+          "Other accessories",
+          "Scarf"
+        ]
+      }
+    },
+    "Men Project": {
+      "Menswear": {
+        "Garment Upper body": [
+          "Blazer",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Outdoor Waistcoat",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Bag",
+          "Cap/peaked",
+          "Gloves",
+          "Hat/beanie",
+          "Other accessories",
+          "Scarf",
+          "Sunglasses"
+        ],
+        "Shoes": [
+          "Bootie",
+          "Flat shoe",
+          "Slippers",
+          "Sneakers"
+        ],
+        "Garment Full body": [
+          "Garment Set",
+          "Jumpsuit/Playsuit"
+        ],
+        "Swimwear": [
+          "Swimwear bottom"
+        ]
+      }
+    },
+    "Men Edition": {
+      "Menswear": {
+        "Shoes": [
+          "Other shoe"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Hat/beanie",
+          "Scarf"
+        ],
+        "Swimwear": [
+          "Swimwear bottom"
+        ]
+      }
+    },
+    "Collaborations": {
+      "Ladieswear": {
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Cardigan",
+          "Coat",
+          "Jacket",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Accessories": [
+          "Bag",
+          "Belt",
+          "Bracelet",
+          "Earring",
+          "Gloves",
+          "Hair clip",
+          "Hair/alice band",
+          "Hat/beanie",
+          "Necklace",
+          "Other accessories",
+          "Ring",
+          "Scarf",
+          "Wallet"
+        ],
+        "Underwear": [
+          "Bra",
+          "Underwear bottom"
+        ],
+        "Swimwear": [
+          "Bikini top",
+          "Swimsuit",
+          "Swimwear bottom"
+        ],
+        "Shoes": [
+          "Boots",
+          "Heeled sandals",
+          "Pumps",
+          "Sandals",
+          "Slippers"
+        ],
+        "Socks & Tights": [
+          "Socks"
+        ],
+        "Furniture": [
+          "Side table"
+        ],
+        "Garment and Shoe care": [
+          "Clothing mist",
+          "Sewing kit",
+          "Stain remover spray",
+          "Washing bag",
+          "Wood balls",
+          "Zipper head"
+        ],
+        "Stationery": [
+          "Marker pen"
+        ]
+      }
+    },
+    "Divided Asia keys": {
+      "Divided": {
+        "Garment Full body": [
+          "Dress",
+          "Jumpsuit/Playsuit"
+        ],
+        "Garment Upper body": [
+          "Blazer",
+          "Blouse",
+          "Cardigan",
+          "Coat",
+          "Hoodie",
+          "Jacket",
+          "Polo shirt",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Accessories": [
+          "Bag",
+          "Hat/beanie",
+          "Scarf"
+        ]
+      }
+    },
+    "EQ Divided": {
+      "Divided": {
+        "Garment Lower body": [
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Garment Full body": [
+          "Dungarees"
+        ]
+      }
+    },
+    "Kids Local Relevance": {
+      "Children Sizes 92-140": {
+        "Garment Upper body": [
+          "Blazer",
+          "Cardigan",
+          "Hoodie",
+          "Jacket",
+          "Shirt",
+          "Sweater",
+          "T-shirt",
+          "Top",
+          "Vest top"
+        ],
+        "Accessories": [
+          "Cap/peaked",
+          "Gloves",
+          "Hat/beanie",
+          "Other accessories",
+          "Scarf"
+        ],
+        "Garment Full body": [
+          "Dress"
+        ],
+        "Garment Lower body": [
+          "Shorts",
+          "Skirt",
+          "Trousers"
+        ],
+        "Nightwear": [
+          "Pyjama set"
+        ],
+        "Socks & Tights": [
+          "Socks",
+          "Underwear Tights"
+        ]
+      },
+      "Baby Sizes 50-98": {
+        "Garment Upper body": [
+          "Jacket",
+          "Sweater"
+        ],
+        "Garment Full body": [
+          "Dress",
+          "Garment Set"
+        ]
+      }
+    },
+    "Ladies Other": {
+      "Ladieswear": {
+        "Garment Upper body": [
+          "Blouse",
+          "Sweater"
+        ]
+      }
+    }
+  },
+  "type_to_families": {
+    "T-shirt": [
+      "tops"
+    ],
+    "Top": [
+      "tops"
+    ],
+    "Blouse": [
+      "tops"
+    ],
+    "Shirt": [
+      "tops"
+    ],
+    "Vest top": [
+      "tops"
+    ],
+    "Sweater": [
+      "tops"
+    ],
+    "Cardigan": [
+      "tops",
+      "outerwear"
+    ],
+    "Hoodie": [
+      "tops",
+      "outerwear"
+    ],
+    "Polo shirt": [
+      "tops"
+    ],
+    "Bodysuit": [
+      "tops",
+      "underwear"
+    ],
+    "Tailored Waistcoat": [
+      "tops",
+      "outerwear"
+    ],
+    "Outdoor Waistcoat": [
+      "tops",
+      "outerwear"
+    ],
+    "Kids Underwear top": [
+      "tops",
+      "underwear"
+    ],
+    "Trousers": [
+      "bottoms"
+    ],
+    "Shorts": [
+      "bottoms"
+    ],
+    "Skirt": [
+      "bottoms"
+    ],
+    "Leggings/Tights": [
+      "bottoms",
+      "socks_tights"
+    ],
+    "Dungarees": [
+      "bottoms",
+      "dresses"
+    ],
+    "Outdoor trousers": [
+      "bottoms"
+    ],
+    "Long John": [
+      "bottoms",
+      "underwear"
+    ],
+    "Dress": [
+      "dresses"
+    ],
+    "Jumpsuit/Playsuit": [
+      "dresses"
+    ],
+    "Costumes": [
+      "dresses"
+    ],
+    "Outdoor overall": [
+      "dresses",
+      "outerwear"
+    ],
+    "Garment Set": [
+      "dresses",
+      "tops",
+      "bottoms"
+    ],
+    "Jacket": [
+      "outerwear"
+    ],
+    "Coat": [
+      "outerwear"
+    ],
+    "Blazer": [
+      "outerwear"
+    ],
+    "Boots": [
+      "footwear"
+    ],
+    "Sneakers": [
+      "footwear"
+    ],
+    "Sandals": [
+      "footwear"
+    ],
+    "Ballerinas": [
+      "footwear"
+    ],
+    "Heels": [
+      "footwear"
+    ],
+    "Slippers": [
+      "footwear"
+    ],
+    "Flip flop": [
+      "footwear"
+    ],
+    "Pumps": [
+      "footwear"
+    ],
+    "Flat shoe": [
+      "footwear"
+    ],
+    "Flat shoes": [
+      "footwear"
+    ],
+    "Heeled sandals": [
+      "footwear"
+    ],
+    "Moccasins": [
+      "footwear"
+    ],
+    "Bootie": [
+      "footwear"
+    ],
+    "Pre-walkers": [
+      "footwear"
+    ],
+    "Other shoe": [
+      "footwear"
+    ],
+    "Wedge": [
+      "footwear"
+    ],
+    "Bag": [
+      "bags"
+    ],
+    "Backpack": [
+      "bags"
+    ],
+    "Tote bag": [
+      "bags"
+    ],
+    "Shoulder bag": [
+      "bags"
+    ],
+    "Cross-body bag": [
+      "bags"
+    ],
+    "Bumbag": [
+      "bags"
+    ],
+    "Weekend/Gym bag": [
+      "bags"
+    ],
+    "Wallet": [
+      "bags",
+      "accessories"
+    ],
+    "Washing bag": [
+      "bags"
+    ],
+    "Earring": [
+      "jewellery"
+    ],
+    "Earrings": [
+      "jewellery"
+    ],
+    "Necklace": [
+      "jewellery"
+    ],
+    "Bracelet": [
+      "jewellery"
+    ],
+    "Ring": [
+      "jewellery"
+    ],
+    "Belt": [
+      "accessories"
+    ],
+    "Scarf": [
+      "accessories"
+    ],
+    "Cap": [
+      "accessories"
+    ],
+    "Beanie": [
+      "accessories"
+    ],
+    "Hat/beanie": [
+      "accessories"
+    ],
+    "Hat/brim": [
+      "accessories"
+    ],
+    "Bucket hat": [
+      "accessories"
+    ],
+    "Straw hat": [
+      "accessories"
+    ],
+    "Felt hat": [
+      "accessories"
+    ],
+    "Cap/peaked": [
+      "accessories"
+    ],
+    "Sunglasses": [
+      "accessories"
+    ],
+    "Eyeglasses": [
+      "accessories"
+    ],
+    "Gloves": [
+      "accessories"
+    ],
+    "Tie": [
+      "accessories"
+    ],
+    "Braces": [
+      "accessories"
+    ],
+    "Hair clip": [
+      "accessories"
+    ],
+    "Hair ties": [
+      "accessories"
+    ],
+    "Hair string": [
+      "accessories"
+    ],
+    "Hair/alice band": [
+      "accessories"
+    ],
+    "Hairband": [
+      "accessories"
+    ],
+    "Headband": [
+      "accessories"
+    ],
+    "Alice band": [
+      "accessories"
+    ],
+    "Watch": [
+      "accessories"
+    ],
+    "Umbrella": [
+      "accessories"
+    ],
+    "Accessories set": [
+      "accessories"
+    ],
+    "Keychain": [
+      "accessories"
+    ],
+    "Mobile case": [
+      "accessories"
+    ],
+    "Wireless earphone case": [
+      "accessories"
+    ],
+    "Other accessories": [
+      "accessories"
+    ],
+    "Leg warmers": [
+      "accessories",
+      "socks_tights"
+    ],
+    "Bra": [
+      "underwear"
+    ],
+    "Underwear bottom": [
+      "underwear"
+    ],
+    "Underwear body": [
+      "underwear"
+    ],
+    "Underwear corset": [
+      "underwear"
+    ],
+    "Underwear set": [
+      "underwear"
+    ],
+    "Underwear Tights": [
+      "underwear",
+      "socks_tights"
+    ],
+    "Bra extender": [
+      "underwear"
+    ],
+    "Nipple covers": [
+      "underwear"
+    ],
+    "Underdress": [
+      "underwear"
+    ],
+    "Pyjama set": [
+      "nightwear"
+    ],
+    "Pyjama bottom": [
+      "nightwear"
+    ],
+    "Pyjama jumpsuit/playsuit": [
+      "nightwear"
+    ],
+    "Night gown": [
+      "nightwear"
+    ],
+    "Robe": [
+      "nightwear"
+    ],
+    "Sleep Bag": [
+      "nightwear"
+    ],
+    "Sleeping sack": [
+      "nightwear"
+    ],
+    "Swimsuit": [
+      "swimwear"
+    ],
+    "Bikini top": [
+      "swimwear"
+    ],
+    "Swimwear bottom": [
+      "swimwear"
+    ],
+    "Swimwear set": [
+      "swimwear"
+    ],
+    "Swimwear top": [
+      "swimwear"
+    ],
+    "Sarong": [
+      "swimwear",
+      "accessories"
+    ],
+    "Socks": [
+      "socks_tights"
+    ],
+    "Dog Wear": [
+      "lifestyle_home_pet"
+    ],
+    "Dog wear": [
+      "lifestyle_home_pet"
+    ],
+    "Blanket": [
+      "lifestyle_home_pet"
+    ],
+    "Cushion": [
+      "lifestyle_home_pet"
+    ],
+    "Towel": [
+      "lifestyle_home_pet"
+    ],
+    "Waterbottle": [
+      "lifestyle_home_pet"
+    ],
+    "Soft Toys": [
+      "lifestyle_home_pet"
+    ],
+    "Toy": [
+      "lifestyle_home_pet"
+    ],
+    "Giftbox": [
+      "lifestyle_home_pet"
+    ],
+    "Marker pen": [
+      "lifestyle_home_pet"
+    ],
+    "Sewing kit": [
+      "lifestyle_home_pet"
+    ],
+    "Stain remover spray": [
+      "lifestyle_home_pet"
+    ],
+    "Side table": [
+      "lifestyle_home_pet"
+    ],
+    "Wood balls": [
+      "lifestyle_home_pet"
+    ],
+    "Zipper head": [
+      "lifestyle_home_pet"
+    ],
+    "Baby Bib": [
+      "lifestyle_home_pet",
+      "accessories"
+    ],
+    "Chem. cosmetics": [
+      "lifestyle_home_pet"
+    ],
+    "Fine cosmetics": [
+      "lifestyle_home_pet"
+    ],
+    "Clothing mist": [
+      "lifestyle_home_pet"
+    ],
+    "Unknown": [
+      "lifestyle_home_pet"
+    ]
+  }
+}
