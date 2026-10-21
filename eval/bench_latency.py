@@ -9,6 +9,8 @@ Executes:
   - 50 calls at concurrency 5
 Reports p50, p95, min, max, and error rates.
 """
+from __future__ import annotations
+
 import asyncio
 import json
 import statistics

@@ -3,6 +3,8 @@
 Computes nDCG@10, choice coverage, empty accuracy, and recommendation scores.
 Matches hackathon-brief.md scoring formulas.
 """
+from __future__ import annotations
+
 import argparse
 import collections
 import json

@@ -1,4 +1,6 @@
 """Search engine query interpretation, candidate retrieval, ranking, and recommendations."""
+from __future__ import annotations
+
 import collections
 import json
 import math
@@ -163,7 +165,7 @@ class SearchEngine:
         if not self.index:
             self.index = build_precomputed_index(self.products, "in_memory_catalog")
 
-    def search_candidates(self, parsed: ParsedQueryIntent, filters: dict, max_candidates: int = 1000) -> list[int]:
+    def search_candidates(self, parsed: ParsedQueryIntent, filters: dict, max_candidates: int = 1000, sort_order: str = "desc") -> list[int]:
         """Retrieve and rank candidate product indices."""
         if parsed.is_impossible:
             return []
@@ -278,7 +280,10 @@ class SearchEngine:
             matched_scores = matched_scores[viable_mask]
 
         id_order = self.index.presorted["id_asc"][matched_indices]
-        sort_idx = np.lexsort((id_order, -matched_scores))
+        if sort_order == "asc":
+            sort_idx = np.lexsort((id_order, matched_scores))
+        else:
+            sort_idx = np.lexsort((id_order, -matched_scores))
 
         ranked_indices = matched_indices[sort_idx][:max_candidates]
         return list(ranked_indices)
@@ -320,17 +325,29 @@ class SearchEngine:
             }
 
         # 2. Mixed Query Handling
+        candidate_sort_order = sort_order if sort_by == "relevance" else "desc"
         if parsed.is_mixed_query:
             p1 = ParsedQueryIntent(parsed.choices[0], self.corrector)
             p2 = ParsedQueryIntent(parsed.choices[1], self.corrector)
+            if parsed.detected_audience:
+                if not p1.detected_audience:
+                    p1.detected_audience = parsed.detected_audience
+                if not p2.detected_audience:
+                    p2.detected_audience = parsed.detected_audience
+            if parsed.detected_categories:
+                for cat in parsed.detected_categories:
+                    if cat not in p1.detected_categories:
+                        p1.detected_categories.append(cat)
+                    if cat not in p2.detected_categories:
+                        p2.detected_categories.append(cat)
             if "max_price" in parsed.prose_constraints:
                 p1.prose_constraints.setdefault("max_price", parsed.prose_constraints["max_price"])
                 p2.prose_constraints.setdefault("max_price", parsed.prose_constraints["max_price"])
             if "min_price" in parsed.prose_constraints:
                 p1.prose_constraints.setdefault("min_price", parsed.prose_constraints["min_price"])
                 p2.prose_constraints.setdefault("min_price", parsed.prose_constraints["min_price"])
-            c1_indices = self.search_candidates(p1, filters, max_candidates=200)
-            c2_indices = self.search_candidates(p2, filters, max_candidates=200)
+            c1_indices = self.search_candidates(p1, filters, max_candidates=200, sort_order=candidate_sort_order)
+            c2_indices = self.search_candidates(p2, filters, max_candidates=200, sort_order=candidate_sort_order)
 
             interleaved = []
             seen = set()
@@ -348,7 +365,7 @@ class SearchEngine:
                         seen.add(idx2)
             candidate_indices = interleaved
         else:
-            candidate_indices = self.search_candidates(parsed, filters, max_candidates=1000)
+            candidate_indices = self.search_candidates(parsed, filters, max_candidates=1000, sort_order=candidate_sort_order)
 
         if not candidate_indices:
             return {"results": [], "recommendations": []}

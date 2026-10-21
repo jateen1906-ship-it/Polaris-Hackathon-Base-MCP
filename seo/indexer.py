@@ -1,4 +1,6 @@
 """Columnar precomputed structures, BM25F indexing, and fast filtering."""
+from __future__ import annotations
+
 import collections
 import hashlib
 import json

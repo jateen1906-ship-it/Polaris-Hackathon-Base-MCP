@@ -3,6 +3,8 @@
 Validates catalog integrity, builds derived structures, verifies determinism,
 and reports coverage metrics.
 """
+from __future__ import annotations
+
 import hashlib
 import json
 import os

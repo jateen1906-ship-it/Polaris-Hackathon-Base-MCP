@@ -1,4 +1,6 @@
 """Alias, synonym, and abbreviation tables mapping to exact catalog values."""
+from __future__ import annotations
+
 import json
 from pathlib import Path
 
@@ -47,6 +49,11 @@ PRODUCT_TYPE_ALIASES = {
     "knitwear": "Sweater",
     "polo": "Polo shirt",
     "polos": "Polo shirt",
+    "hoodie": "Hoodie",
+    "hoodies": "Hoodie",
+    "hoody": "Hoodie",
+    "sweatshirt": "Sweater",
+    "sweatshirts": "Sweater",
 
     # Bottoms
     "pants": "Trousers",
@@ -63,7 +70,10 @@ PRODUCT_TYPE_ALIASES = {
     "joggers": "Trousers",
     "jogger": "Trousers",
     "sweatpants": "Trousers",
+    "sweat pants": "Trousers",
     "track pants": "Trousers",
+    "trackpants": "Trousers",
+    "sweats": "Trousers",
     "cargos": "Trousers",
     "cargo pants": "Trousers",
     "tights": "Leggings/Tights",
@@ -189,6 +199,9 @@ PRODUCT_TYPE_ALIASES = {
     "cosmetic": "Chem. cosmetics",
     "socks": "Socks",
     "sock": "Socks",
+    "towel": "Towel",
+    "towels": "Towel",
+    "beach towel": "Towel",
 
     # Jewellery
     "earrings": "Earrings",
@@ -426,6 +439,27 @@ PATTERN_ALIASES = {
     "sequins": "Sequin",
     "denim": "Denim"
 }
+
+from seo.taxonomy import PRODUCT_TYPE_TO_FAMILIES
+from seo.colors import COLOR_TO_BASE
+
+# Automatically register all canonical catalog product types, lowercase & common plurals
+for _pt in PRODUCT_TYPE_TO_FAMILIES:
+    _low = _pt.strip().lower()
+    PRODUCT_TYPE_ALIASES.setdefault(_low, _pt)
+    if not _low.endswith("s"):
+        PRODUCT_TYPE_ALIASES.setdefault(_low + "s", _pt)
+    if "/" in _pt:
+        for _sub in _pt.split("/"):
+            _s_low = _sub.strip().lower()
+            PRODUCT_TYPE_ALIASES.setdefault(_s_low, _pt)
+            if not _s_low.endswith("s"):
+                PRODUCT_TYPE_ALIASES.setdefault(_s_low + "s", _pt)
+
+# Automatically register all canonical catalog colors in lowercase
+for _col in COLOR_TO_BASE:
+    _c_low = _col.strip().lower()
+    COLOR_ALIASES.setdefault(_c_low, _col)
 
 
 def validate_all_aliases(valid_values: dict[str, set[str]]):
